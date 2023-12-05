@@ -1,0 +1,961 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1701805468154,1586,bikroy_homepage,200,OK,Thread Group 1-2,text,true,,367267,340,5,5,https://bikroy.com/,395,0,188
+1701805468154,399,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-2,text,true,,846,116,5,5,https://www.bikroy.com/,395,0,188
+1701805468555,108,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-2,,true,,278,112,5,5,http://bikroy.com/,108,0,51
+1701805468663,1077,bikroy_homepage-2,200,OK,Thread Group 1-2,text,true,,366143,112,5,5,https://bikroy.com/,794,0,142
+1701805468653,1279,bikroy_homepage,200,OK,Thread Group 1-3,text,true,,367272,340,5,5,https://bikroy.com/,332,0,151
+1701805468653,332,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-3,text,true,,846,116,5,5,https://www.bikroy.com/,332,0,151
+1701805468986,120,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-3,,true,,278,112,5,5,http://bikroy.com/,120,0,45
+1701805469107,825,bikroy_homepage-2,200,OK,Thread Group 1-3,text,true,,366148,112,5,5,https://bikroy.com/,558,0,141
+1701805469153,1320,bikroy_homepage,200,OK,Thread Group 1-4,text,true,,367238,340,6,6,https://bikroy.com/,317,0,140
+1701805469153,317,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-4,text,true,,846,116,6,6,https://www.bikroy.com/,317,0,140
+1701805469471,105,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-4,,true,,278,112,6,6,http://bikroy.com/,105,0,46
+1701805469577,896,bikroy_homepage-2,200,OK,Thread Group 1-4,text,true,,366114,112,6,6,https://bikroy.com/,651,0,152
+1701805469744,1345,bikroy_all_ads,200,OK,Thread Group 1-2,text,true,,668235,358,7,7,https://bikroy.com/en/ads,127,0,0
+1701805469744,127,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-2,text,true,,852,122,7,7,https://www.bikroy.com/en/ads,127,0,0
+1701805469872,50,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-2,,true,,284,118,7,7,http://bikroy.com/en/ads,50,0,0
+1701805469922,1167,bikroy_all_ads-2,200,OK,Thread Group 1-2,text,true,,667099,118,7,7,https://bikroy.com/en/ads,850,0,0
+1701805469933,1224,bikroy_all_ads,200,OK,Thread Group 1-3,text,true,,671802,358,8,8,https://bikroy.com/en/ads,118,0,0
+1701805469933,118,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-3,text,true,,852,122,8,8,https://www.bikroy.com/en/ads,118,0,0
+1701805470051,50,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-3,,true,,284,118,8,8,http://bikroy.com/en/ads,50,0,0
+1701805470101,1056,bikroy_all_ads-2,200,OK,Thread Group 1-3,text,true,,670666,118,8,8,https://bikroy.com/en/ads,757,0,0
+1701805470477,992,bikroy_all_ads,200,OK,Thread Group 1-4,text,true,,668336,358,8,8,https://bikroy.com/en/ads,117,0,0
+1701805470477,117,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-4,text,true,,852,122,8,8,https://www.bikroy.com/en/ads,117,0,0
+1701805470594,51,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-4,,true,,284,118,8,8,http://bikroy.com/en/ads,51,0,0
+1701805470645,824,bikroy_all_ads-2,200,OK,Thread Group 1-4,text,true,,667200,118,8,8,https://bikroy.com/en/ads,552,0,0
+1701805469654,1857,bikroy_homepage,200,OK,Thread Group 1-5,text,true,,367403,340,8,8,https://bikroy.com/,332,0,144
+1701805469654,332,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-5,text,true,,846,116,8,8,https://www.bikroy.com/,332,0,144
+1701805469987,98,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-5,,true,,278,112,8,8,http://bikroy.com/,98,0,45
+1701805470086,1425,bikroy_homepage-2,200,OK,Thread Group 1-5,text,true,,366279,112,8,8,https://bikroy.com/,860,0,144
+1701805470150,1630,bikroy_homepage,200,OK,Thread Group 1-6,text,true,,367273,340,9,9,https://bikroy.com/,350,0,167
+1701805470150,350,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-6,text,true,,846,116,9,9,https://www.bikroy.com/,350,0,167
+1701805470501,101,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-6,,true,,278,112,9,9,http://bikroy.com/,101,0,44
+1701805470603,1177,bikroy_homepage-2,200,OK,Thread Group 1-6,text,true,,366149,112,9,9,https://bikroy.com/,959,0,229
+1701805471090,1343,bikroy_post_ads,200,OK,Thread Group 1-2,text,true,,671800,541,10,10,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,127,0,0
+1701805471090,127,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-2,text,true,,913,183,10,10,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,127,0,0
+1701805471217,49,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-2,,true,,345,179,10,10,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,49,0,0
+1701805471266,1167,bikroy_post_ads-2,200,OK,Thread Group 1-2,text,true,,670542,179,10,10,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,908,0,0
+1701805470652,1790,bikroy_homepage,200,OK,Thread Group 1-7,text,true,,367344,340,9,9,https://bikroy.com/,432,0,233
+1701805470652,432,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-7,text,true,,846,116,9,9,https://www.bikroy.com/,432,0,233
+1701805471085,110,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-7,,true,,278,112,9,9,http://bikroy.com/,110,0,49
+1701805471196,1246,bikroy_homepage-2,200,OK,Thread Group 1-7,text,true,,366220,112,9,9,https://bikroy.com/,717,0,167
+1701805471158,1377,bikroy_post_ads,200,OK,Thread Group 1-3,text,true,,671753,541,9,9,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,119,0,0
+1701805471158,119,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-3,text,true,,913,183,9,9,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,119,0,0
+1701805471278,48,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-3,,true,,345,179,9,9,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,48,0,0
+1701805471327,1208,bikroy_post_ads-2,200,OK,Thread Group 1-3,text,true,,670495,179,9,9,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,976,0,0
+1701805471470,1488,bikroy_post_ads,200,OK,Thread Group 1-4,text,true,,666295,541,9,9,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,140,0,0
+1701805471470,140,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-4,text,true,,913,183,9,9,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,140,0,0
+1701805471611,52,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-4,,true,,345,179,9,9,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,52,0,0
+1701805471663,1295,bikroy_post_ads-2,200,OK,Thread Group 1-4,text,true,,665037,179,9,9,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,958,0,0
+1701805467764,5330,bikroy_homepage,200,OK,Thread Group 1-1,text,true,,367371,340,8,8,https://bikroy.com/,785,0,582
+1701805467764,789,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-1,text,true,,846,116,8,8,https://www.bikroy.com/,785,0,582
+1701805468555,108,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-1,,true,,278,112,8,8,http://bikroy.com/,108,0,51
+1701805468664,4430,bikroy_homepage-2,200,OK,Thread Group 1-1,text,true,,366247,112,8,8,https://bikroy.com/,634,0,146
+1701805471151,2064,bikroy_homepage,200,OK,Thread Group 1-8,text,true,,367238,340,9,9,https://bikroy.com/,337,0,153
+1701805471151,337,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-8,text,true,,846,116,9,9,https://www.bikroy.com/,337,0,153
+1701805471489,104,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-8,,true,,278,112,9,9,http://bikroy.com/,104,0,47
+1701805471594,1621,bikroy_homepage-2,200,OK,Thread Group 1-8,text,true,,366114,112,9,9,https://bikroy.com/,975,0,151
+1701805471512,1845,bikroy_all_ads,200,OK,Thread Group 1-5,text,true,,662121,358,9,9,https://bikroy.com/en/ads,122,0,0
+1701805471512,122,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-5,text,true,,852,122,9,9,https://www.bikroy.com/en/ads,122,0,0
+1701805471635,47,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-5,,true,,284,118,9,9,http://bikroy.com/en/ads,47,0,0
+1701805471683,1674,bikroy_all_ads-2,200,OK,Thread Group 1-5,text,true,,660985,118,9,9,https://bikroy.com/en/ads,1080,0,0
+1701805471650,1936,bikroy_homepage,200,OK,Thread Group 1-9,text,true,,367258,340,9,9,https://bikroy.com/,344,0,148
+1701805471650,344,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-9,text,true,,846,116,9,9,https://www.bikroy.com/,344,0,148
+1701805471995,102,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-9,,true,,278,112,9,9,http://bikroy.com/,102,0,46
+1701805472097,1489,bikroy_homepage-2,200,OK,Thread Group 1-9,text,true,,366134,112,9,9,https://bikroy.com/,684,0,157
+1701805471781,1811,bikroy_all_ads,200,OK,Thread Group 1-6,text,true,,667444,358,9,9,https://bikroy.com/en/ads,117,0,0
+1701805471781,118,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-6,text,true,,852,122,9,9,https://www.bikroy.com/en/ads,117,0,0
+1701805471899,49,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-6,,true,,284,118,9,9,http://bikroy.com/en/ads,49,0,0
+1701805471948,1644,bikroy_all_ads-2,200,OK,Thread Group 1-6,text,true,,666308,118,9,9,https://bikroy.com/en/ads,1057,0,0
+1701805472149,1702,bikroy_homepage,200,OK,Thread Group 1-10,text,true,,367249,340,10,10,https://bikroy.com/,262,0,142
+1701805472149,272,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-10,text,true,,846,116,10,10,https://www.bikroy.com/,262,0,142
+1701805472421,110,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-10,,true,,278,112,10,10,http://bikroy.com/,110,0,51
+1701805472532,1319,bikroy_homepage-2,200,OK,Thread Group 1-10,text,true,,366125,112,10,10,https://bikroy.com/,1065,0,161
+1701805472442,1505,bikroy_all_ads,200,OK,Thread Group 1-7,text,true,,672629,358,10,10,https://bikroy.com/en/ads,134,0,0
+1701805472442,134,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-7,text,true,,852,122,10,10,https://www.bikroy.com/en/ads,134,0,0
+1701805472576,57,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-7,,true,,284,118,10,10,http://bikroy.com/en/ads,57,0,0
+1701805472634,1313,bikroy_all_ads-2,200,OK,Thread Group 1-7,text,true,,671493,118,10,10,https://bikroy.com/en/ads,693,0,0
+1701805472650,1523,bikroy_homepage,200,OK,Thread Group 1-11,text,true,,367493,340,11,11,https://bikroy.com/,347,0,144
+1701805472650,347,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-11,text,true,,846,116,11,11,https://www.bikroy.com/,347,0,144
+1701805472999,119,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-11,,true,,278,112,11,11,http://bikroy.com/,119,0,49
+1701805473119,1054,bikroy_homepage-2,200,OK,Thread Group 1-11,text,true,,366369,112,11,11,https://bikroy.com/,572,0,174
+1701805473358,1260,bikroy_post_ads,200,OK,Thread Group 1-5,text,true,,672853,541,11,11,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,138,0,0
+1701805473358,138,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-5,text,true,,913,183,11,11,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,138,0,0
+1701805473496,48,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-5,,true,,345,179,11,11,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,48,0,0
+1701805473544,1074,bikroy_post_ads-2,200,OK,Thread Group 1-5,text,true,,671595,179,11,11,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,664,0,0
+1701805473217,1414,bikroy_all_ads,200,OK,Thread Group 1-8,text,true,,668204,358,10,10,https://bikroy.com/en/ads,147,0,0
+1701805473217,147,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-8,text,true,,852,122,10,10,https://www.bikroy.com/en/ads,147,0,0
+1701805473364,311,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-8,,true,,284,118,10,10,http://bikroy.com/en/ads,311,0,0
+1701805473675,956,bikroy_all_ads-2,200,OK,Thread Group 1-8,text,true,,667068,118,10,10,https://bikroy.com/en/ads,635,0,0
+1701805473594,1213,bikroy_post_ads,200,OK,Thread Group 1-6,text,true,,668546,541,11,11,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,129,0,0
+1701805473594,130,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-6,text,true,,913,183,11,11,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,129,0,0
+1701805473725,48,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-6,,true,,345,179,11,11,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,48,0,0
+1701805473773,1034,bikroy_post_ads-2,200,OK,Thread Group 1-6,text,true,,667288,179,11,11,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,679,0,0
+1701805473852,1263,bikroy_all_ads,200,OK,Thread Group 1-10,text,true,,662837,358,10,10,https://bikroy.com/en/ads,128,0,0
+1701805473852,128,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-10,text,true,,852,122,10,10,https://www.bikroy.com/en/ads,128,0,0
+1701805473981,48,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-10,,true,,284,118,10,10,http://bikroy.com/en/ads,48,0,0
+1701805474029,1086,bikroy_all_ads-2,200,OK,Thread Group 1-10,text,true,,661701,118,10,10,https://bikroy.com/en/ads,621,0,0
+1701805473948,1607,bikroy_post_ads,200,OK,Thread Group 1-7,text,true,,668506,541,11,11,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,129,0,0
+1701805473948,129,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-7,text,true,,913,183,11,11,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,129,0,0
+1701805474077,53,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-7,,true,,345,179,11,11,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,53,0,0
+1701805474130,1425,bikroy_post_ads-2,200,OK,Thread Group 1-7,text,true,,667248,179,11,11,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,811,0,0
+1701805474174,1414,bikroy_all_ads,200,OK,Thread Group 1-11,text,true,,666010,358,10,10,https://bikroy.com/en/ads,125,0,0
+1701805474174,125,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-11,text,true,,852,122,10,10,https://www.bikroy.com/en/ads,125,0,0
+1701805474299,48,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-11,,true,,284,118,10,10,http://bikroy.com/en/ads,48,0,0
+1701805474348,1240,bikroy_all_ads-2,200,OK,Thread Group 1-11,text,true,,664874,118,10,10,https://bikroy.com/en/ads,691,0,0
+1701805473650,1976,bikroy_homepage,200,OK,Thread Group 1-13,text,true,,367376,340,10,10,https://bikroy.com/,352,0,154
+1701805473650,353,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-13,text,true,,846,116,10,10,https://www.bikroy.com/,352,0,154
+1701805474003,107,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-13,,true,,278,112,10,10,http://bikroy.com/,107,0,48
+1701805474111,1515,bikroy_homepage-2,200,OK,Thread Group 1-13,text,true,,366252,112,10,10,https://bikroy.com/,1034,0,145
+1701805474150,1728,bikroy_homepage,200,OK,Thread Group 1-14,text,true,,367377,340,11,11,https://bikroy.com/,261,0,140
+1701805474150,261,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-14,text,true,,846,116,11,11,https://www.bikroy.com/,261,0,140
+1701805474412,100,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-14,,true,,278,112,11,11,http://bikroy.com/,100,0,43
+1701805474513,1365,bikroy_homepage-2,200,OK,Thread Group 1-14,text,true,,366253,112,11,11,https://bikroy.com/,834,0,166
+1701805473150,3079,bikroy_homepage,200,OK,Thread Group 1-12,text,true,,367289,340,12,12,https://bikroy.com/,1335,0,1153
+1701805473150,1335,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-12,text,true,,846,116,12,12,https://www.bikroy.com/,1335,0,1153
+1701805474486,106,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-12,,true,,278,112,12,12,http://bikroy.com/,106,0,47
+1701805474593,1636,bikroy_homepage-2,200,OK,Thread Group 1-12,text,true,,366165,112,12,12,https://bikroy.com/,992,0,152
+1701805474632,1631,bikroy_post_ads,200,OK,Thread Group 1-8,text,true,,668184,541,12,12,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,119,0,0
+1701805474632,119,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-8,text,true,,913,183,12,12,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,119,0,0
+1701805474751,56,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-8,,true,,345,179,12,12,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,56,0,0
+1701805474808,1455,bikroy_post_ads-2,200,OK,Thread Group 1-8,text,true,,666926,179,12,12,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,1058,0,0
+1701805473588,2979,bikroy_all_ads,200,OK,Thread Group 1-9,text,true,,667877,358,11,11,https://bikroy.com/en/ads,199,0,0
+1701805473588,199,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-9,text,true,,852,122,11,11,https://www.bikroy.com/en/ads,199,0,0
+1701805473788,56,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-9,,true,,284,118,11,11,http://bikroy.com/en/ads,56,0,0
+1701805473844,2723,bikroy_all_ads-2,200,OK,Thread Group 1-9,text,true,,666741,118,11,11,https://bikroy.com/en/ads,1921,0,0
+1701805475116,1461,bikroy_post_ads,200,OK,Thread Group 1-10,text,true,,668145,541,11,11,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,116,0,0
+1701805475116,116,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-10,text,true,,913,183,11,11,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,116,0,0
+1701805475232,61,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-10,,true,,345,179,11,11,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,61,0,0
+1701805475293,1284,bikroy_post_ads-2,200,OK,Thread Group 1-10,text,true,,666887,179,11,11,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,882,0,0
+1701805474649,1997,bikroy_homepage,200,OK,Thread Group 1-15,text,true,,367234,340,10,10,https://bikroy.com/,363,0,159
+1701805474649,363,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-15,text,true,,846,116,10,10,https://www.bikroy.com/,363,0,159
+1701805475013,133,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-15,,true,,278,112,10,10,http://bikroy.com/,133,0,60
+1701805475147,1499,bikroy_homepage-2,200,OK,Thread Group 1-15,text,true,,366110,112,10,10,https://bikroy.com/,821,0,188
+1701805475588,1525,bikroy_post_ads,200,OK,Thread Group 1-11,text,true,,668470,541,11,11,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,141,0,0
+1701805475588,141,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-11,text,true,,913,183,11,11,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,141,0,0
+1701805475730,62,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-11,,true,,345,179,11,11,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,62,0,0
+1701805475792,1321,bikroy_post_ads-2,200,OK,Thread Group 1-11,text,true,,667212,179,11,11,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,818,0,0
+1701805475149,1974,bikroy_homepage,200,OK,Thread Group 1-16,text,true,,367235,340,10,10,https://bikroy.com/,334,0,179
+1701805475149,334,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-16,text,true,,846,116,10,10,https://www.bikroy.com/,334,0,179
+1701805475484,124,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-16,,true,,278,112,10,10,http://bikroy.com/,124,0,63
+1701805475609,1514,bikroy_homepage-2,200,OK,Thread Group 1-16,text,true,,366111,112,10,10,https://bikroy.com/,1046,0,255
+1701805475878,1578,bikroy_all_ads,200,OK,Thread Group 1-14,text,true,,668385,358,11,11,https://bikroy.com/en/ads,145,0,0
+1701805475878,145,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-14,text,true,,852,122,11,11,https://www.bikroy.com/en/ads,145,0,0
+1701805476023,63,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-14,,true,,284,118,11,11,http://bikroy.com/en/ads,63,0,0
+1701805476086,1370,bikroy_all_ads-2,200,OK,Thread Group 1-14,text,true,,667249,118,11,11,https://bikroy.com/en/ads,819,0,0
+1701805475650,2243,bikroy_homepage,200,OK,Thread Group 1-17,text,true,,367243,340,12,12,https://bikroy.com/,376,0,179
+1701805475650,376,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-17,text,true,,846,116,12,12,https://www.bikroy.com/,376,0,179
+1701805476027,134,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-17,,true,,278,112,12,12,http://bikroy.com/,134,0,62
+1701805476161,1732,bikroy_homepage-2,200,OK,Thread Group 1-17,text,true,,366119,112,12,12,https://bikroy.com/,890,0,177
+1701805476229,1689,bikroy_all_ads,200,OK,Thread Group 1-12,text,true,,668136,358,12,12,https://bikroy.com/en/ads,129,0,0
+1701805476229,129,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-12,text,true,,852,122,12,12,https://www.bikroy.com/en/ads,129,0,0
+1701805476359,63,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-12,,true,,284,118,12,12,http://bikroy.com/en/ads,63,0,0
+1701805476422,1496,bikroy_all_ads-2,200,OK,Thread Group 1-12,text,true,,667000,118,12,12,https://bikroy.com/en/ads,927,0,0
+1701805476567,1592,bikroy_post_ads,200,OK,Thread Group 1-9,text,true,,671619,541,13,13,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,125,0,0
+1701805476567,125,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-9,text,true,,913,183,13,13,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,125,0,0
+1701805476692,65,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-9,,true,,345,179,13,13,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,65,0,0
+1701805476757,1402,bikroy_post_ads-2,200,OK,Thread Group 1-9,text,true,,670361,179,13,13,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,638,0,0
+1701805475627,2574,bikroy_all_ads,200,OK,Thread Group 1-13,text,true,,668386,358,12,12,https://bikroy.com/en/ads,237,0,0
+1701805475627,237,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-13,text,true,,852,122,12,12,https://www.bikroy.com/en/ads,237,0,0
+1701805475864,326,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-13,,true,,284,118,12,12,http://bikroy.com/en/ads,326,0,0
+1701805476191,2010,bikroy_all_ads-2,200,OK,Thread Group 1-13,text,true,,667250,118,12,12,https://bikroy.com/en/ads,955,0,0
+1701805476646,1759,bikroy_all_ads,200,OK,Thread Group 1-15,text,true,,671075,358,12,12,https://bikroy.com/en/ads,137,0,0
+1701805476646,137,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-15,text,true,,852,122,12,12,https://www.bikroy.com/en/ads,137,0,0
+1701805476783,64,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-15,,true,,284,118,12,12,http://bikroy.com/en/ads,64,0,0
+1701805476848,1557,bikroy_all_ads-2,200,OK,Thread Group 1-15,text,true,,669939,118,12,12,https://bikroy.com/en/ads,1074,0,0
+1701805477123,1503,bikroy_all_ads,200,OK,Thread Group 1-16,text,true,,671399,358,12,12,https://bikroy.com/en/ads,214,0,0
+1701805477123,214,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-16,text,true,,852,122,12,12,https://www.bikroy.com/en/ads,214,0,0
+1701805477337,58,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-16,,true,,284,118,12,12,http://bikroy.com/en/ads,58,0,0
+1701805477395,1231,bikroy_all_ads-2,200,OK,Thread Group 1-16,text,true,,670263,118,12,12,https://bikroy.com/en/ads,624,0,0
+1701805476150,2554,bikroy_homepage,200,OK,Thread Group 1-18,text,true,,367289,340,13,13,https://bikroy.com/,1316,0,1178
+1701805476150,1316,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-18,text,true,,846,116,13,13,https://www.bikroy.com/,1316,0,1178
+1701805477467,134,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-18,,true,,278,112,13,13,http://bikroy.com/,134,0,63
+1701805477601,1103,bikroy_homepage-2,200,OK,Thread Group 1-18,text,true,,366165,112,13,13,https://bikroy.com/,664,0,179
+1701805477892,1323,bikroy_all_ads,200,OK,Thread Group 1-17,text,true,,668680,358,14,14,https://bikroy.com/en/ads,173,0,0
+1701805477892,173,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-17,text,true,,852,122,14,14,https://www.bikroy.com/en/ads,173,0,0
+1701805478065,58,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-17,,true,,284,118,14,14,http://bikroy.com/en/ads,58,0,0
+1701805478123,1092,bikroy_all_ads-2,200,OK,Thread Group 1-17,text,true,,667544,118,14,14,https://bikroy.com/en/ads,646,0,0
+1701805477457,1790,bikroy_post_ads,200,OK,Thread Group 1-14,text,true,,668952,541,14,14,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,138,0,0
+1701805477457,483,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-14,text,true,,913,183,14,14,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,138,0,0
+1701805477940,48,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-14,,true,,345,179,14,14,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,48,0,0
+1701805477988,1259,bikroy_post_ads-2,200,OK,Thread Group 1-14,text,true,,667694,179,14,14,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,836,0,0
+1701805477917,1961,bikroy_post_ads,200,OK,Thread Group 1-12,text,true,,668949,541,14,14,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,147,0,0
+1701805477917,147,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-12,text,true,,913,183,14,14,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,147,0,0
+1701805478065,61,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-12,,true,,345,179,14,14,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,61,0,0
+1701805478126,1752,bikroy_post_ads-2,200,OK,Thread Group 1-12,text,true,,667691,179,14,14,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,1214,0,0
+1701805477148,2777,bikroy_homepage,200,OK,Thread Group 1-20,text,true,,367408,340,13,13,https://bikroy.com/,321,0,191
+1701805477148,321,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-20,text,true,,846,116,13,13,https://www.bikroy.com/,321,0,191
+1701805477470,1101,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-20,,true,,278,112,13,13,http://bikroy.com/,1101,0,1045
+1701805478570,1354,bikroy_homepage-2,200,OK,Thread Group 1-20,text,true,,366284,112,13,13,https://bikroy.com/,558,0,158
+1701805478201,2021,bikroy_post_ads,200,OK,Thread Group 1-13,text,true,,662550,541,14,14,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,138,0,0
+1701805478201,138,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-13,text,true,,913,183,14,14,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,138,0,0
+1701805478339,54,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-13,,true,,345,179,14,14,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,54,0,0
+1701805478393,1829,bikroy_post_ads-2,200,OK,Thread Group 1-13,text,true,,661292,179,14,14,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,1254,0,0
+1701805478405,2114,bikroy_post_ads,200,OK,Thread Group 1-15,text,true,,669002,541,13,13,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,131,0,0
+1701805478405,131,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-15,text,true,,913,183,13,13,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,131,0,0
+1701805478536,51,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-15,,true,,345,179,13,13,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,51,0,0
+1701805478587,1932,bikroy_post_ads-2,200,OK,Thread Group 1-15,text,true,,667744,179,13,13,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,573,0,0
+1701805478147,2656,bikroy_homepage,200,OK,Thread Group 1-22,text,true,,367274,340,13,13,https://bikroy.com/,501,0,308
+1701805478147,501,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-22,text,true,,846,116,13,13,https://www.bikroy.com/,501,0,308
+1701805478649,111,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-22,,true,,278,112,13,13,http://bikroy.com/,111,0,48
+1701805478760,2043,bikroy_homepage-2,200,OK,Thread Group 1-22,text,true,,366150,112,13,13,https://bikroy.com/,895,0,137
+1701805477649,3267,bikroy_homepage,200,OK,Thread Group 1-21,text,true,,366661,340,13,13,https://bikroy.com/,1264,0,1146
+1701805477649,1264,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-21,text,true,,846,116,13,13,https://www.bikroy.com/,1264,0,1146
+1701805478913,113,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-21,,true,,278,112,13,13,http://bikroy.com/,113,0,50
+1701805479027,1889,bikroy_homepage-2,200,OK,Thread Group 1-21,text,true,,365537,112,13,13,https://bikroy.com/,731,0,152
+1701805478647,2288,bikroy_homepage,200,OK,Thread Group 1-23,text,true,,367281,340,13,13,https://bikroy.com/,341,0,159
+1701805478647,342,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-23,text,true,,846,116,13,13,https://www.bikroy.com/,341,0,159
+1701805478989,104,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-23,,true,,278,112,13,13,http://bikroy.com/,104,0,44
+1701805479094,1841,bikroy_homepage-2,200,OK,Thread Group 1-23,text,true,,366157,112,13,13,https://bikroy.com/,856,0,140
+1701805479216,1891,bikroy_post_ads,200,OK,Thread Group 1-17,text,true,,668277,541,13,13,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,124,0,0
+1701805479216,124,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-17,text,true,,913,183,13,13,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,124,0,0
+1701805479340,64,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-17,,true,,345,179,13,13,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,64,0,0
+1701805479405,1702,bikroy_post_ads-2,200,OK,Thread Group 1-17,text,true,,667019,179,13,13,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,920,0,0
+1701805478625,2486,bikroy_post_ads,200,OK,Thread Group 1-16,text,true,,672201,541,12,12,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,143,0,0
+1701805478625,143,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-16,text,true,,913,183,12,12,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,143,0,0
+1701805478768,54,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-16,,true,,345,179,12,12,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,54,0,0
+1701805478822,2289,bikroy_post_ads-2,200,OK,Thread Group 1-16,text,true,,670943,179,12,12,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,1829,0,0
+1701805476649,4591,bikroy_homepage,200,OK,Thread Group 1-19,text,true,,367266,340,12,12,https://bikroy.com/,742,0,170
+1701805476649,742,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-19,text,true,,846,116,12,12,https://www.bikroy.com/,742,0,170
+1701805477391,385,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-19,,true,,278,112,12,12,http://bikroy.com/,385,0,58
+1701805477776,3463,bikroy_homepage-2,200,OK,Thread Group 1-19,text,true,,366142,112,12,12,https://bikroy.com/,1802,0,1161
+1701805473096,8190,bikroy_all_ads,200,OK,Thread Group 1-1,text,true,,672765,358,12,12,https://bikroy.com/en/ads,129,0,0
+1701805473096,130,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-1,text,true,,852,122,12,12,https://www.bikroy.com/en/ads,129,0,0
+1701805473226,67,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-1,,true,,284,118,12,12,http://bikroy.com/en/ads,67,0,0
+1701805473293,7993,bikroy_all_ads-2,200,OK,Thread Group 1-1,text,true,,671629,118,12,12,https://bikroy.com/en/ads,621,0,0
+1701805479925,1634,bikroy_all_ads,200,OK,Thread Group 1-20,text,true,,667583,358,12,12,https://bikroy.com/en/ads,131,0,0
+1701805479925,131,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-20,text,true,,852,122,12,12,https://www.bikroy.com/en/ads,131,0,0
+1701805480056,56,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-20,,true,,284,118,12,12,http://bikroy.com/en/ads,56,0,0
+1701805480112,1447,bikroy_all_ads-2,200,OK,Thread Group 1-20,text,true,,666447,118,12,12,https://bikroy.com/en/ads,817,0,0
+1701805480803,1407,bikroy_all_ads,200,OK,Thread Group 1-22,text,true,,667222,358,14,14,https://bikroy.com/en/ads,215,0,0
+1701805480803,215,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-22,text,true,,852,122,14,14,https://www.bikroy.com/en/ads,215,0,0
+1701805481019,53,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-22,,true,,284,118,14,14,http://bikroy.com/en/ads,53,0,0
+1701805481072,1138,bikroy_all_ads-2,200,OK,Thread Group 1-22,text,true,,666086,118,14,14,https://bikroy.com/en/ads,683,0,0
+1701805480648,1634,bikroy_homepage,200,OK,Thread Group 1-27,text,true,,367236,340,14,14,https://bikroy.com/,816,0,637
+1701805480648,816,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-27,text,true,,846,116,14,14,https://www.bikroy.com/,816,0,637
+1701805481464,96,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-27,,true,,278,112,14,14,http://bikroy.com/,96,0,44
+1701805481561,721,bikroy_homepage-2,200,OK,Thread Group 1-27,text,true,,366112,112,14,14,https://bikroy.com/,509,0,139
+1701805480935,1416,bikroy_all_ads,200,OK,Thread Group 1-23,text,true,,671806,358,14,14,https://bikroy.com/en/ads,128,0,0
+1701805480935,128,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-23,text,true,,852,122,14,14,https://www.bikroy.com/en/ads,128,0,0
+1701805481064,51,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-23,,true,,284,118,14,14,http://bikroy.com/en/ads,51,0,0
+1701805481115,1236,bikroy_all_ads-2,200,OK,Thread Group 1-23,text,true,,670670,118,14,14,https://bikroy.com/en/ads,718,0,0
+1701805478704,4123,bikroy_all_ads,200,OK,Thread Group 1-18,text,true,,667989,358,15,15,https://bikroy.com/en/ads,124,0,0
+1701805478704,124,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-18,text,true,,852,122,15,15,https://www.bikroy.com/en/ads,124,0,0
+1701805478828,53,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-18,,true,,284,118,15,15,http://bikroy.com/en/ads,53,0,0
+1701805478881,3946,bikroy_all_ads-2,200,OK,Thread Group 1-18,text,true,,666853,118,15,15,https://bikroy.com/en/ads,828,0,0
+1701805481647,1356,bikroy_homepage,200,OK,Thread Group 1-29,text,true,,367267,340,15,15,https://bikroy.com/,267,0,145
+1701805481647,267,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-29,text,true,,846,116,15,15,https://www.bikroy.com/,267,0,145
+1701805481914,98,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-29,,true,,278,112,15,15,http://bikroy.com/,98,0,44
+1701805482012,991,bikroy_homepage-2,200,OK,Thread Group 1-29,text,true,,366143,112,15,15,https://bikroy.com/,564,0,140
+1701805479648,3430,bikroy_homepage,200,OK,Thread Group 1-25,text,true,,366641,340,15,15,https://bikroy.com/,2397,0,2207
+1701805479648,2397,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-25,text,true,,846,116,15,15,https://www.bikroy.com/,2397,0,2207
+1701805482046,106,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-25,,true,,278,112,15,15,http://bikroy.com/,106,0,51
+1701805482153,925,bikroy_homepage-2,200,OK,Thread Group 1-25,text,true,,365517,112,15,15,https://bikroy.com/,487,0,142
+1701805479148,4299,bikroy_homepage,200,OK,Thread Group 1-24,text,true,,366582,340,16,16,https://bikroy.com/,1304,0,1169
+1701805479148,1304,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-24,text,true,,846,116,16,16,https://www.bikroy.com/,1304,0,1169
+1701805480453,1116,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-24,,true,,278,112,16,16,http://bikroy.com/,1116,0,1054
+1701805481570,1877,bikroy_homepage-2,200,OK,Thread Group 1-24,text,true,,365458,112,16,16,https://bikroy.com/,1037,0,153
+1701805481559,1900,bikroy_post_ads,200,OK,Thread Group 1-20,text,true,,671630,541,16,16,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,124,0,0
+1701805481559,124,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-20,text,true,,913,183,16,16,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,124,0,0
+1701805481683,48,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-20,,true,,345,179,16,16,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,48,0,0
+1701805481731,1728,bikroy_post_ads-2,200,OK,Thread Group 1-20,text,true,,670372,179,16,16,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,1036,0,0
+1701805482351,1518,bikroy_post_ads,200,OK,Thread Group 1-23,text,true,,671594,541,16,16,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,124,0,0
+1701805482351,124,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-23,text,true,,913,183,16,16,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,124,0,0
+1701805482475,49,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-23,,true,,345,179,16,16,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,49,0,0
+1701805482524,1345,bikroy_post_ads-2,200,OK,Thread Group 1-23,text,true,,670336,179,16,16,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,781,0,0
+1701805480916,3056,bikroy_all_ads,200,OK,Thread Group 1-21,text,true,,671822,358,15,15,https://bikroy.com/en/ads,179,0,0
+1701805480916,179,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-21,text,true,,852,122,15,15,https://www.bikroy.com/en/ads,179,0,0
+1701805481096,57,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-21,,true,,284,118,15,15,http://bikroy.com/en/ads,57,0,0
+1701805481153,2819,bikroy_all_ads-2,200,OK,Thread Group 1-21,text,true,,670686,118,15,15,https://bikroy.com/en/ads,1217,0,0
+1701805482211,1875,bikroy_post_ads,200,OK,Thread Group 1-22,text,true,,671596,541,15,15,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,121,0,0
+1701805482211,121,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-22,text,true,,913,183,15,15,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,121,0,0
+1701805482332,54,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-22,,true,,345,179,15,15,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,54,0,0
+1701805482386,1700,bikroy_post_ads-2,200,OK,Thread Group 1-22,text,true,,670338,179,15,15,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,1028,0,0
+1701805480146,4132,bikroy_homepage,200,OK,Thread Group 1-26,text,true,,367307,340,15,15,https://bikroy.com/,306,0,177
+1701805480146,306,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-26,text,true,,846,116,15,15,https://www.bikroy.com/,306,0,177
+1701805480453,129,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-26,,true,,278,112,15,15,http://bikroy.com/,129,0,60
+1701805480583,3695,bikroy_homepage-2,200,OK,Thread Group 1-26,text,true,,366183,112,15,15,https://bikroy.com/,1942,0,1145
+1701805481147,3203,bikroy_homepage,200,OK,Thread Group 1-28,text,true,,367268,340,15,15,https://bikroy.com/,343,0,154
+1701805481147,343,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-28,text,true,,846,116,15,15,https://www.bikroy.com/,343,0,154
+1701805481491,114,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-28,,true,,278,112,15,15,http://bikroy.com/,114,0,48
+1701805481606,2744,bikroy_homepage-2,200,OK,Thread Group 1-28,text,true,,366144,112,15,15,https://bikroy.com/,1957,0,153
+1701805483004,1798,bikroy_all_ads,200,OK,Thread Group 1-29,text,true,,667768,358,16,16,https://bikroy.com/en/ads,133,0,0
+1701805483004,133,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-29,text,true,,852,122,16,16,https://www.bikroy.com/en/ads,133,0,0
+1701805483137,63,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-29,,true,,284,118,16,16,http://bikroy.com/en/ads,63,0,0
+1701805483200,1602,bikroy_all_ads-2,200,OK,Thread Group 1-29,text,true,,666632,118,16,16,https://bikroy.com/en/ads,696,0,0
+1701805483079,1746,bikroy_all_ads,200,OK,Thread Group 1-25,text,true,,637244,358,16,16,https://bikroy.com/en/ads,157,0,0
+1701805483079,157,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-25,text,true,,852,122,16,16,https://www.bikroy.com/en/ads,157,0,0
+1701805483236,67,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-25,,true,,284,118,16,16,http://bikroy.com/en/ads,67,0,0
+1701805483303,1522,bikroy_all_ads-2,200,OK,Thread Group 1-25,text,true,,636108,118,16,16,https://bikroy.com/en/ads,840,0,0
+1701805482283,2696,bikroy_all_ads,200,OK,Thread Group 1-27,text,true,,662291,358,16,16,https://bikroy.com/en/ads,146,0,0
+1701805482283,146,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-27,text,true,,852,122,16,16,https://www.bikroy.com/en/ads,146,0,0
+1701805482429,48,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-27,,true,,284,118,16,16,http://bikroy.com/en/ads,48,0,0
+1701805482477,2502,bikroy_all_ads-2,200,OK,Thread Group 1-27,text,true,,661155,118,16,16,https://bikroy.com/en/ads,618,0,0
+1701805484350,1839,bikroy_all_ads,200,OK,Thread Group 1-28,text,true,,667751,358,19,19,https://bikroy.com/en/ads,119,0,0
+1701805484350,119,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-28,text,true,,852,122,19,19,https://www.bikroy.com/en/ads,119,0,0
+1701805484470,53,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-28,,true,,284,118,19,19,http://bikroy.com/en/ads,53,0,0
+1701805484523,1666,bikroy_all_ads-2,200,OK,Thread Group 1-28,text,true,,666615,118,19,19,https://bikroy.com/en/ads,686,0,0
+1701805483648,2752,bikroy_homepage,200,OK,Thread Group 1-33,text,true,,367235,340,19,19,https://bikroy.com/,324,0,189
+1701805483648,324,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-33,text,true,,846,116,19,19,https://www.bikroy.com/,324,0,189
+1701805483973,122,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-33,,true,,278,112,19,19,http://bikroy.com/,122,0,65
+1701805484096,2304,bikroy_homepage-2,200,OK,Thread Group 1-33,text,true,,366111,112,19,19,https://bikroy.com/,918,0,176
+1701805481240,5235,bikroy_all_ads,200,OK,Thread Group 1-19,text,true,,671826,358,19,19,https://bikroy.com/en/ads,129,0,0
+1701805481240,129,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-19,text,true,,852,122,19,19,https://www.bikroy.com/en/ads,129,0,0
+1701805481369,49,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-19,,true,,284,118,19,19,http://bikroy.com/en/ads,49,0,0
+1701805481418,5057,bikroy_all_ads-2,200,OK,Thread Group 1-19,text,true,,670690,118,19,19,https://bikroy.com/en/ads,952,0,0
+1701805483972,2581,bikroy_post_ads,200,OK,Thread Group 1-21,text,true,,662530,541,19,19,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,122,0,0
+1701805483972,122,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-21,text,true,,913,183,19,19,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,122,0,0
+1701805484094,58,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-21,,true,,345,179,19,19,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,58,0,0
+1701805484152,2401,bikroy_post_ads-2,200,OK,Thread Group 1-21,text,true,,661272,179,19,19,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,652,0,0
+1701805483447,3107,bikroy_all_ads,200,OK,Thread Group 1-24,text,true,,662532,358,18,18,https://bikroy.com/en/ads,146,0,0
+1701805483447,511,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-24,text,true,,852,122,18,18,https://www.bikroy.com/en/ads,146,0,0
+1701805483958,69,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-24,,true,,284,118,18,18,http://bikroy.com/en/ads,69,0,0
+1701805484027,2527,bikroy_all_ads-2,200,OK,Thread Group 1-24,text,true,,661396,118,18,18,https://bikroy.com/en/ads,789,0,0
+1701805484803,1777,bikroy_post_ads,200,OK,Thread Group 1-29,text,true,,671874,541,18,18,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,120,0,0
+1701805484803,120,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-29,text,true,,913,183,18,18,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,120,0,0
+1701805484923,52,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-29,,true,,345,179,18,18,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,52,0,0
+1701805484976,1604,bikroy_post_ads-2,200,OK,Thread Group 1-29,text,true,,670616,179,18,18,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,696,0,0
+1701805484826,1770,bikroy_post_ads,200,OK,Thread Group 1-25,text,true,,666405,541,17,17,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,124,0,0
+1701805484826,124,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-25,text,true,,913,183,17,17,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,124,0,0
+1701805484950,51,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-25,,true,,345,179,17,17,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,51,0,0
+1701805485001,1595,bikroy_post_ads-2,200,OK,Thread Group 1-25,text,true,,665147,179,17,17,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,1070,0,0
+1701805482648,4034,bikroy_homepage,200,OK,Thread Group 1-31,text,true,,366611,340,17,17,https://bikroy.com/,344,0,150
+1701805482648,344,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-31,text,true,,846,116,17,17,https://www.bikroy.com/,344,0,150
+1701805482993,127,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-31,,true,,278,112,17,17,http://bikroy.com/,127,0,59
+1701805483121,3561,bikroy_homepage-2,200,OK,Thread Group 1-31,text,true,,365487,112,17,17,https://bikroy.com/,1937,0,1270
+1701805484647,2135,bikroy_homepage,200,OK,Thread Group 1-35,text,true,,367250,340,17,17,https://bikroy.com/,358,0,180
+1701805484647,358,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-35,text,true,,846,116,17,17,https://www.bikroy.com/,358,0,180
+1701805485006,106,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-35,,true,,278,112,17,17,http://bikroy.com/,106,0,46
+1701805485112,1670,bikroy_homepage-2,200,OK,Thread Group 1-35,text,true,,366126,112,17,17,https://bikroy.com/,1022,0,177
+1701805482828,4382,bikroy_post_ads,200,OK,Thread Group 1-18,text,true,,667999,541,18,18,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,138,0,0
+1701805482828,138,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-18,text,true,,913,183,18,18,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,138,0,0
+1701805482966,61,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-18,,true,,345,179,18,18,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,61,0,0
+1701805483027,4183,bikroy_post_ads-2,200,OK,Thread Group 1-18,text,true,,666741,179,18,18,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,730,0,0
+1701805484980,2244,bikroy_post_ads,200,OK,Thread Group 1-27,text,true,,671851,541,17,17,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,142,0,0
+1701805484980,142,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-27,text,true,,913,183,17,17,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,142,0,0
+1701805485123,54,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-27,,true,,345,179,17,17,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,54,0,0
+1701805485177,2047,bikroy_post_ads-2,200,OK,Thread Group 1-27,text,true,,670593,179,17,17,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,1167,0,0
+1701805484145,3106,bikroy_homepage,200,OK,Thread Group 1-34,text,true,,367341,340,16,16,https://bikroy.com/,398,0,196
+1701805484145,398,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-34,text,true,,846,116,16,16,https://www.bikroy.com/,398,0,196
+1701805484544,373,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-34,,true,,278,112,16,16,http://bikroy.com/,373,0,58
+1701805484918,2333,bikroy_homepage-2,200,OK,Thread Group 1-34,text,true,,366217,112,16,16,https://bikroy.com/,609,0,146
+1701805486190,1487,bikroy_post_ads,200,OK,Thread Group 1-28,text,true,,667094,541,17,17,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,138,0,0
+1701805486190,138,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-28,text,true,,913,183,17,17,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,138,0,0
+1701805486328,69,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-28,,true,,345,179,17,17,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,69,0,0
+1701805486397,1280,bikroy_post_ads-2,200,OK,Thread Group 1-28,text,true,,665836,179,17,17,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,544,0,0
+1701805485647,2112,bikroy_homepage,200,OK,Thread Group 1-37,text,true,,367226,340,16,16,https://bikroy.com/,817,0,681
+1701805485647,818,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-37,text,true,,846,116,16,16,https://www.bikroy.com/,817,0,681
+1701805486465,118,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-37,,true,,278,112,16,16,http://bikroy.com/,118,0,54
+1701805486583,1176,bikroy_homepage-2,200,OK,Thread Group 1-37,text,true,,366102,112,16,16,https://bikroy.com/,900,0,154
+1701805485148,2613,bikroy_homepage,200,OK,Thread Group 1-36,text,true,,367253,340,16,16,https://bikroy.com/,1496,0,1034
+1701805485148,1496,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-36,text,true,,846,116,16,16,https://www.bikroy.com/,1496,0,1034
+1701805486645,131,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-36,,true,,278,112,16,16,http://bikroy.com/,131,0,63
+1701805486777,984,bikroy_homepage-2,200,OK,Thread Group 1-36,text,true,,366129,112,16,16,https://bikroy.com/,722,0,139
+1701805486782,1530,bikroy_all_ads,200,OK,Thread Group 1-35,text,true,,670402,358,17,17,https://bikroy.com/en/ads,116,0,0
+1701805486782,116,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-35,text,true,,852,122,17,17,https://www.bikroy.com/en/ads,116,0,0
+1701805486898,52,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-35,,true,,284,118,17,17,http://bikroy.com/en/ads,52,0,0
+1701805486951,1361,bikroy_all_ads-2,200,OK,Thread Group 1-35,text,true,,669266,118,17,17,https://bikroy.com/en/ads,827,0,0
+1701805483147,5291,bikroy_homepage,200,OK,Thread Group 1-32,text,true,,367235,340,17,17,https://bikroy.com/,406,0,194
+1701805483147,774,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-32,text,true,,846,116,17,17,https://www.bikroy.com/,406,0,194
+1701805483922,128,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-32,,true,,278,112,17,17,http://bikroy.com/,128,0,59
+1701805484051,4387,bikroy_homepage-2,200,OK,Thread Group 1-32,text,true,,366111,112,17,17,https://bikroy.com/,1017,0,157
+1701805487148,1804,bikroy_homepage,200,OK,Thread Group 1-40,text,true,,367242,340,18,18,https://bikroy.com/,374,0,171
+1701805487148,374,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-40,text,true,,846,116,18,18,https://www.bikroy.com/,374,0,171
+1701805487523,105,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-40,,true,,278,112,18,18,http://bikroy.com/,105,0,46
+1701805487629,1323,bikroy_homepage-2,200,OK,Thread Group 1-40,text,true,,366118,112,18,18,https://bikroy.com/,509,0,149
+1701805487251,1977,bikroy_all_ads,200,OK,Thread Group 1-34,text,true,,675831,358,19,19,https://bikroy.com/en/ads,132,0,0
+1701805487251,132,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-34,text,true,,852,122,19,19,https://www.bikroy.com/en/ads,132,0,0
+1701805487383,49,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-34,,true,,284,118,19,19,http://bikroy.com/en/ads,49,0,0
+1701805487433,1795,bikroy_all_ads-2,200,OK,Thread Group 1-34,text,true,,674695,118,19,19,https://bikroy.com/en/ads,846,0,0
+1701805487760,2195,bikroy_all_ads,200,OK,Thread Group 1-37,text,true,,667597,358,20,20,https://bikroy.com/en/ads,193,0,0
+1701805487760,193,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-37,text,true,,852,122,20,20,https://www.bikroy.com/en/ads,193,0,0
+1701805487953,57,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-37,,true,,284,118,20,20,http://bikroy.com/en/ads,57,0,0
+1701805488010,1945,bikroy_all_ads-2,200,OK,Thread Group 1-37,text,true,,666461,118,20,20,https://bikroy.com/en/ads,830,0,0
+1701805482147,7918,bikroy_homepage,200,OK,Thread Group 1-30,text,true,,366628,340,20,20,https://bikroy.com/,341,0,149
+1701805482147,341,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-30,text,true,,846,116,20,20,https://www.bikroy.com/,341,0,149
+1701805482490,106,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-30,,true,,278,112,20,20,http://bikroy.com/,106,0,49
+1701805482596,7469,bikroy_homepage-2,200,OK,Thread Group 1-30,text,true,,365504,112,20,20,https://bikroy.com/,584,0,157
+1701805486647,3522,bikroy_homepage,200,OK,Thread Group 1-39,text,true,,367235,340,21,21,https://bikroy.com/,298,0,179
+1701805486647,298,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-39,text,true,,846,116,21,21,https://www.bikroy.com/,298,0,179
+1701805486945,110,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-39,,true,,278,112,21,21,http://bikroy.com/,110,0,51
+1701805487056,3113,bikroy_homepage-2,200,OK,Thread Group 1-39,text,true,,366111,112,21,21,https://bikroy.com/,1729,0,1198
+1701805486148,4160,bikroy_homepage,200,OK,Thread Group 1-38,text,true,,366627,340,21,21,https://bikroy.com/,1366,0,1154
+1701805486148,1366,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-38,text,true,,846,116,21,21,https://www.bikroy.com/,1366,0,1154
+1701805487515,113,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-38,,true,,278,112,21,21,http://bikroy.com/,113,0,51
+1701805487629,2679,bikroy_homepage-2,200,OK,Thread Group 1-38,text,true,,365503,112,21,21,https://bikroy.com/,523,0,171
+1701805487761,2565,bikroy_all_ads,200,OK,Thread Group 1-36,text,true,,667594,358,21,21,https://bikroy.com/en/ads,132,0,0
+1701805487761,132,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-36,text,true,,852,122,21,21,https://www.bikroy.com/en/ads,132,0,0
+1701805487893,57,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-36,,true,,284,118,21,21,http://bikroy.com/en/ads,57,0,0
+1701805487950,2376,bikroy_all_ads-2,200,OK,Thread Group 1-36,text,true,,666458,118,21,21,https://bikroy.com/en/ads,989,0,0
+1701805486683,3852,bikroy_all_ads,200,OK,Thread Group 1-31,text,true,,675753,358,21,21,https://bikroy.com/en/ads,113,0,0
+1701805486683,113,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-31,text,true,,852,122,21,21,https://www.bikroy.com/en/ads,113,0,0
+1701805486796,52,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-31,,true,,284,118,21,21,http://bikroy.com/en/ads,52,0,0
+1701805486848,3687,bikroy_all_ads-2,200,OK,Thread Group 1-31,text,true,,674617,118,21,21,https://bikroy.com/en/ads,954,0,0
+1701805484278,6257,bikroy_all_ads,200,OK,Thread Group 1-26,text,true,,672211,358,21,21,https://bikroy.com/en/ads,120,0,0
+1701805484278,120,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-26,text,true,,852,122,21,21,https://www.bikroy.com/en/ads,120,0,0
+1701805484398,48,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-26,,true,,284,118,21,21,http://bikroy.com/en/ads,48,0,0
+1701805484446,6089,bikroy_all_ads-2,200,OK,Thread Group 1-26,text,true,,671075,118,21,21,https://bikroy.com/en/ads,1016,0,0
+1701805486555,4050,bikroy_post_ads,200,OK,Thread Group 1-24,text,true,,672119,541,21,21,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,122,0,0
+1701805486555,122,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-24,text,true,,913,183,21,21,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,122,0,0
+1701805486677,69,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-24,,true,,345,179,21,21,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,69,0,0
+1701805486746,3859,bikroy_post_ads-2,200,OK,Thread Group 1-24,text,true,,670861,179,21,21,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,1187,0,0
+1701805487647,2965,bikroy_homepage,200,OK,Thread Group 1-41,text,true,,367267,340,20,20,https://bikroy.com/,429,0,158
+1701805487647,430,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-41,text,true,,846,116,20,20,https://www.bikroy.com/,429,0,158
+1701805488077,123,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-41,,true,,278,112,20,20,http://bikroy.com/,123,0,59
+1701805488200,2412,bikroy_homepage-2,200,OK,Thread Group 1-41,text,true,,366143,112,20,20,https://bikroy.com/,1305,0,809
+1701805486400,4481,bikroy_all_ads,200,OK,Thread Group 1-33,text,true,,671873,358,21,21,https://bikroy.com/en/ads,414,0,0
+1701805486400,414,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-33,text,true,,852,122,21,21,https://www.bikroy.com/en/ads,414,0,0
+1701805486815,54,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-33,,true,,284,118,21,21,http://bikroy.com/en/ads,54,0,0
+1701805486869,4012,bikroy_all_ads-2,200,OK,Thread Group 1-33,text,true,,670737,118,21,21,https://bikroy.com/en/ads,846,0,0
+1701805488952,2223,bikroy_all_ads,200,OK,Thread Group 1-40,text,true,,667550,358,22,22,https://bikroy.com/en/ads,139,0,0
+1701805488952,140,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-40,text,true,,852,122,22,22,https://www.bikroy.com/en/ads,139,0,0
+1701805489092,63,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-40,,true,,284,118,22,22,http://bikroy.com/en/ads,63,0,0
+1701805489155,2020,bikroy_all_ads-2,200,OK,Thread Group 1-40,text,true,,666414,118,22,22,https://bikroy.com/en/ads,956,0,0
+1701805481285,10113,bikroy_post_ads,200,OK,Thread Group 1-1,text,true,,672109,541,22,22,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,154,0,0
+1701805481285,154,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-1,text,true,,913,183,22,22,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,154,0,0
+1701805481439,51,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-1,,true,,345,179,22,22,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,51,0,0
+1701805481490,9908,bikroy_post_ads-2,200,OK,Thread Group 1-1,text,true,,670851,179,22,22,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,795,0,0
+1701805488312,3121,bikroy_post_ads,200,OK,Thread Group 1-35,text,true,,668734,541,21,21,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,128,0,0
+1701805488312,128,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-35,text,true,,913,183,21,21,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,128,0,0
+1701805488441,66,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-35,,true,,345,179,21,21,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,66,0,0
+1701805488507,2926,bikroy_post_ads-2,200,OK,Thread Group 1-35,text,true,,667476,179,21,21,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,987,0,0
+1701805489229,2330,bikroy_post_ads,200,OK,Thread Group 1-34,text,true,,668121,541,20,20,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,187,0,0
+1701805489229,187,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-34,text,true,,913,183,20,20,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,187,0,0
+1701805489416,593,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-34,,true,,345,179,20,20,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,593,0,0
+1701805490010,1549,bikroy_post_ads-2,200,OK,Thread Group 1-34,text,true,,666863,179,20,20,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,638,0,0
+1701805486475,5324,bikroy_post_ads,200,OK,Thread Group 1-19,text,true,,668668,541,20,20,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,138,0,0
+1701805486475,138,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-19,text,true,,913,183,20,20,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,138,0,0
+1701805486613,52,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-19,,true,,345,179,20,20,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,52,0,0
+1701805486665,5134,bikroy_post_ads-2,200,OK,Thread Group 1-19,text,true,,667410,179,20,20,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,854,0,0
+1701805489956,2140,bikroy_post_ads,200,OK,Thread Group 1-37,text,true,,671641,541,19,19,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,327,0,0
+1701805489956,327,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-37,text,true,,913,183,19,19,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,327,0,0
+1701805490283,65,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-37,,true,,345,179,19,19,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,65,0,0
+1701805490348,1748,bikroy_post_ads-2,200,OK,Thread Group 1-37,text,true,,670383,179,19,19,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,752,0,0
+1701805488147,4253,bikroy_homepage,200,OK,Thread Group 1-42,text,true,,367237,340,19,19,https://bikroy.com/,316,0,181
+1701805488147,316,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-42,text,true,,846,116,19,19,https://www.bikroy.com/,316,0,181
+1701805488464,128,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-42,,true,,278,112,19,19,http://bikroy.com/,128,0,58
+1701805488592,3808,bikroy_homepage-2,200,OK,Thread Group 1-42,text,true,,366113,112,19,19,https://bikroy.com/,1068,0,183
+1701805490326,2478,bikroy_post_ads,200,OK,Thread Group 1-36,text,true,,662645,541,20,20,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,143,0,0
+1701805490326,144,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-36,text,true,,913,183,20,20,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,143,0,0
+1701805490470,67,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-36,,true,,345,179,20,20,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,67,0,0
+1701805490537,2267,bikroy_post_ads-2,200,OK,Thread Group 1-36,text,true,,661387,179,20,20,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,880,0,0
+1701805489647,3162,bikroy_homepage,200,OK,Thread Group 1-45,text,true,,367297,340,19,19,https://bikroy.com/,399,0,262
+1701805489647,399,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-45,text,true,,846,116,19,19,https://www.bikroy.com/,399,0,262
+1701805490046,131,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-45,,true,,278,112,19,19,http://bikroy.com/,131,0,63
+1701805490178,2631,bikroy_homepage-2,200,OK,Thread Group 1-45,text,true,,366173,112,19,19,https://bikroy.com/,1012,0,564
+1701805489146,3827,bikroy_homepage,200,OK,Thread Group 1-44,text,true,,367251,340,19,19,https://bikroy.com/,858,0,721
+1701805489146,858,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-44,text,true,,846,116,19,19,https://www.bikroy.com/,858,0,721
+1701805490005,121,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-44,,true,,278,112,19,19,http://bikroy.com/,121,0,58
+1701805490126,2847,bikroy_homepage-2,200,OK,Thread Group 1-44,text,true,,366127,112,19,19,https://bikroy.com/,855,0,274
+1701805488648,4469,bikroy_homepage,200,OK,Thread Group 1-43,text,true,,367279,340,19,19,https://bikroy.com/,1398,0,1189
+1701805488648,1398,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-43,text,true,,846,116,19,19,https://www.bikroy.com/,1398,0,1189
+1701805490046,123,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-43,,true,,278,112,19,19,http://bikroy.com/,123,0,59
+1701805490169,2948,bikroy_homepage-2,200,OK,Thread Group 1-43,text,true,,366155,112,19,19,https://bikroy.com/,1355,0,580
+1701805490169,3439,bikroy_all_ads,200,OK,Thread Group 1-39,text,true,,666184,358,20,20,https://bikroy.com/en/ads,133,0,0
+1701805490169,133,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-39,text,true,,852,122,20,20,https://www.bikroy.com/en/ads,133,0,0
+1701805490302,64,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-39,,true,,284,118,20,20,http://bikroy.com/en/ads,64,0,0
+1701805490367,3241,bikroy_all_ads-2,200,OK,Thread Group 1-39,text,true,,665048,118,20,20,https://bikroy.com/en/ads,713,0,0
+1701805488439,5231,bikroy_all_ads,200,OK,Thread Group 1-32,text,true,,667597,358,21,21,https://bikroy.com/en/ads,158,0,0
+1701805491176,2494,bikroy_post_ads,200,OK,Thread Group 1-40,text,true,,668238,541,21,21,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,143,0,0
+1701805488439,158,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-32,text,true,,852,122,21,21,https://www.bikroy.com/en/ads,158,0,0
+1701805491176,516,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-40,text,true,,913,183,21,21,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,143,0,0
+1701805488597,61,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-32,,true,,284,118,21,21,http://bikroy.com/en/ads,61,0,0
+1701805491692,329,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-40,,true,,345,179,21,21,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,329,0,0
+1701805488658,5012,bikroy_all_ads-2,200,OK,Thread Group 1-32,text,true,,666461,118,21,21,https://bikroy.com/en/ads,709,0,0
+1701805492021,1649,bikroy_post_ads-2,200,OK,Thread Group 1-40,text,true,,666980,179,21,21,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,762,0,0
+1701805490881,2909,bikroy_post_ads,200,OK,Thread Group 1-33,text,true,,671156,541,20,20,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,133,0,0
+1701805490881,134,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-33,text,true,,913,183,20,20,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,133,0,0
+1701805491015,68,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-33,,true,,345,179,20,20,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,68,0,0
+1701805491083,2707,bikroy_post_ads-2,200,OK,Thread Group 1-33,text,true,,669898,179,20,20,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,793,0,0
+1701805490613,3215,bikroy_all_ads,200,OK,Thread Group 1-41,text,true,,665426,358,19,19,https://bikroy.com/en/ads,146,0,0
+1701805490613,146,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-41,text,true,,852,122,19,19,https://www.bikroy.com/en/ads,146,0,0
+1701805490759,65,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-41,,true,,284,118,19,19,http://bikroy.com/en/ads,65,0,0
+1701805490824,3004,bikroy_all_ads-2,200,OK,Thread Group 1-41,text,true,,664290,118,19,19,https://bikroy.com/en/ads,738,0,0
+1701805490646,3311,bikroy_homepage,200,OK,Thread Group 1-47,text,true,,367283,340,19,19,https://bikroy.com/,722,0,186
+1701805490646,722,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-47,text,true,,846,116,19,19,https://www.bikroy.com/,722,0,186
+1701805491368,130,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-47,,true,,278,112,19,19,http://bikroy.com/,130,0,59
+1701805491499,2458,bikroy_homepage-2,200,OK,Thread Group 1-47,text,true,,366159,112,19,19,https://bikroy.com/,1587,0,1080
+1701805491146,3000,bikroy_homepage,200,OK,Thread Group 1-48,text,true,,367267,340,19,19,https://bikroy.com/,1415,0,1198
+1701805491146,1418,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-48,text,true,,846,116,19,19,https://www.bikroy.com/,1415,0,1198
+1701805492564,176,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-48,,true,,278,112,19,19,http://bikroy.com/,176,0,65
+1701805492740,1406,bikroy_homepage-2,200,OK,Thread Group 1-48,text,true,,366143,112,19,19,https://bikroy.com/,1093,0,687
+1701805490535,3759,bikroy_post_ads,200,OK,Thread Group 1-31,text,true,,665680,541,20,20,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,134,0,0
+1701805490535,134,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-31,text,true,,913,183,20,20,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,134,0,0
+1701805490669,66,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-31,,true,,345,179,20,20,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,66,0,0
+1701805490735,3559,bikroy_post_ads-2,200,OK,Thread Group 1-31,text,true,,664422,179,20,20,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,942,0,0
+1701805490535,3762,bikroy_post_ads,200,OK,Thread Group 1-26,text,true,,671141,541,19,19,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,132,0,0
+1701805490535,132,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-26,text,true,,913,183,19,19,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,132,0,0
+1701805490668,67,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-26,,true,,345,179,19,19,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,67,0,0
+1701805490735,3562,bikroy_post_ads-2,200,OK,Thread Group 1-26,text,true,,669883,179,19,19,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,877,0,0
+1701805492809,2010,bikroy_all_ads,200,OK,Thread Group 1-45,text,true,,667715,358,19,19,https://bikroy.com/en/ads,146,0,0
+1701805492809,150,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-45,text,true,,852,122,19,19,https://www.bikroy.com/en/ads,146,0,0
+1701805492959,68,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-45,,true,,284,118,19,19,http://bikroy.com/en/ads,68,0,0
+1701805493027,1792,bikroy_all_ads-2,200,OK,Thread Group 1-45,text,true,,666579,118,19,19,https://bikroy.com/en/ads,743,0,0
+1701805490309,4535,bikroy_all_ads,200,OK,Thread Group 1-38,text,true,,665912,358,19,19,https://bikroy.com/en/ads,139,0,0
+1701805490309,235,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-38,text,true,,852,122,19,19,https://www.bikroy.com/en/ads,139,0,0
+1701805490544,70,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-38,,true,,284,118,19,19,http://bikroy.com/en/ads,70,0,0
+1701805490614,4230,bikroy_all_ads-2,200,OK,Thread Group 1-38,text,true,,664776,118,19,19,https://bikroy.com/en/ads,986,0,0
+1701805492147,2733,bikroy_homepage,200,OK,Thread Group 1-50,text,true,,367212,340,19,19,https://bikroy.com/,1334,0,1169
+1701805492147,1334,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-50,text,true,,846,116,19,19,https://www.bikroy.com/,1334,0,1169
+1701805493481,133,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-50,,true,,278,112,19,19,http://bikroy.com/,133,0,59
+1701805493615,1265,bikroy_homepage-2,200,OK,Thread Group 1-50,text,true,,366088,112,19,19,https://bikroy.com/,838,0,221
+1701805490065,4825,bikroy_all_ads,200,OK,Thread Group 1-30,text,true,,662702,358,19,19,https://bikroy.com/en/ads,135,0,0
+1701805490065,135,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-30,text,true,,852,122,19,19,https://www.bikroy.com/en/ads,135,0,0
+1701805490200,74,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-30,,true,,284,118,19,19,http://bikroy.com/en/ads,74,0,0
+1701805490274,4616,bikroy_all_ads-2,200,OK,Thread Group 1-30,text,true,,661566,118,19,19,https://bikroy.com/en/ads,618,0,0
+1701805493958,1789,bikroy_all_ads,200,OK,Thread Group 1-47,text,true,,671093,358,21,21,https://bikroy.com/en/ads,149,0,0
+1701805493958,149,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-47,text,true,,852,122,21,21,https://www.bikroy.com/en/ads,149,0,0
+1701805494107,63,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-47,,true,,284,118,21,21,http://bikroy.com/en/ads,63,0,0
+1701805494170,1577,bikroy_all_ads-2,200,OK,Thread Group 1-47,text,true,,669957,118,21,21,https://bikroy.com/en/ads,609,0,0
+1701805494147,1918,bikroy_all_ads,200,OK,Thread Group 1-48,text,true,,671078,358,21,21,https://bikroy.com/en/ads,127,0,0
+1701805494147,127,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-48,text,true,,852,122,21,21,https://www.bikroy.com/en/ads,127,0,0
+1701805494275,53,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-48,,true,,284,118,21,21,http://bikroy.com/en/ads,53,0,0
+1701805494328,1737,bikroy_all_ads-2,200,OK,Thread Group 1-48,text,true,,669942,118,21,21,https://bikroy.com/en/ads,825,0,0
+1701805492400,4040,bikroy_all_ads,200,OK,Thread Group 1-42,text,true,,667608,358,22,22,https://bikroy.com/en/ads,133,0,0
+1701805492400,133,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-42,text,true,,852,122,22,22,https://www.bikroy.com/en/ads,133,0,0
+1701805492533,65,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-42,,true,,284,118,22,22,http://bikroy.com/en/ads,65,0,0
+1701805492598,3842,bikroy_all_ads-2,200,OK,Thread Group 1-42,text,true,,666472,118,22,22,https://bikroy.com/en/ads,954,0,0
+1701805494648,2513,bikroy_homepage,200,OK,Thread Group 1-55,text,true,,367282,340,24,24,https://bikroy.com/,278,0,158
+1701805494648,278,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-55,text,true,,846,116,24,24,https://www.bikroy.com/,278,0,158
+1701805494927,97,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-55,,true,,278,112,24,24,http://bikroy.com/,97,0,42
+1701805495025,2136,bikroy_homepage-2,200,OK,Thread Group 1-55,text,true,,366158,112,24,24,https://bikroy.com/,1018,0,155
+1701805494819,2375,bikroy_post_ads,200,OK,Thread Group 1-45,text,true,,667586,541,24,24,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,123,0,0
+1701805494819,123,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-45,text,true,,913,183,24,24,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,123,0,0
+1701805494942,56,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-45,,true,,345,179,24,24,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,56,0,0
+1701805494998,2196,bikroy_post_ads-2,200,OK,Thread Group 1-45,text,true,,666328,179,24,24,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,779,0,0
+1701805493118,4104,bikroy_all_ads,200,OK,Thread Group 1-43,text,true,,669512,358,23,23,https://bikroy.com/en/ads,143,0,0
+1701805493118,143,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-43,text,true,,852,122,23,23,https://www.bikroy.com/en/ads,143,0,0
+1701805493261,66,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-43,,true,,284,118,23,23,http://bikroy.com/en/ads,66,0,0
+1701805493327,3895,bikroy_all_ads-2,200,OK,Thread Group 1-43,text,true,,668376,118,23,23,https://bikroy.com/en/ads,584,0,0
+1701805493647,3666,bikroy_homepage,200,OK,Thread Group 1-53,text,true,,367265,340,23,23,https://bikroy.com/,1262,0,1146
+1701805493647,1263,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-53,text,true,,846,116,23,23,https://www.bikroy.com/,1262,0,1146
+1701805494910,97,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-53,,true,,278,112,23,23,http://bikroy.com/,97,0,44
+1701805495007,2306,bikroy_homepage-2,200,OK,Thread Group 1-53,text,true,,366141,112,23,23,https://bikroy.com/,1127,0,171
+1701805493608,4129,bikroy_post_ads,200,OK,Thread Group 1-39,text,true,,671338,541,24,24,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,182,0,0
+1701805493608,182,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-39,text,true,,913,183,24,24,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,182,0,0
+1701805493790,58,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-39,,true,,345,179,24,24,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,58,0,0
+1701805493849,3888,bikroy_post_ads-2,200,OK,Thread Group 1-39,text,true,,670080,179,24,24,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,1003,0,0
+1701805495747,2012,bikroy_post_ads,200,OK,Thread Group 1-47,text,true,,671138,541,23,23,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,209,0,0
+1701805495747,209,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-47,text,true,,913,183,23,23,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,209,0,0
+1701805495956,67,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-47,,true,,345,179,23,23,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,67,0,0
+1701805496023,1736,bikroy_post_ads-2,200,OK,Thread Group 1-47,text,true,,669880,179,23,23,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,608,0,0
+1701805494147,3661,bikroy_homepage,200,OK,Thread Group 1-54,text,true,,367266,340,22,22,https://bikroy.com/,291,0,156
+1701805494147,291,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-54,text,true,,846,116,22,22,https://www.bikroy.com/,291,0,156
+1701805494439,96,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-54,,true,,278,112,22,22,http://bikroy.com/,96,0,43
+1701805494536,3272,bikroy_homepage-2,200,OK,Thread Group 1-54,text,true,,366142,112,22,22,https://bikroy.com/,482,0,145
+1701805496065,1758,bikroy_post_ads,200,OK,Thread Group 1-48,text,true,,671172,541,22,22,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,491,0,0
+1701805496065,491,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-48,text,true,,913,183,22,22,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,491,0,0
+1701805496556,68,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-48,,true,,345,179,22,22,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,68,0,0
+1701805496624,1199,bikroy_post_ads-2,200,OK,Thread Group 1-48,text,true,,669914,179,22,22,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,660,0,0
+1701805492973,4901,bikroy_all_ads,200,OK,Thread Group 1-44,text,true,,667725,358,21,21,https://bikroy.com/en/ads,138,0,0
+1701805492973,509,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-44,text,true,,852,122,21,21,https://www.bikroy.com/en/ads,138,0,0
+1701805493482,62,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-44,,true,,284,118,21,21,http://bikroy.com/en/ads,62,0,0
+1701805493544,4330,bikroy_all_ads-2,200,OK,Thread Group 1-44,text,true,,666589,118,21,21,https://bikroy.com/en/ads,666,0,0
+1701805494890,2997,bikroy_post_ads,200,OK,Thread Group 1-30,text,true,,667555,541,21,21,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,122,0,0
+1701805494890,122,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-30,text,true,,913,183,21,21,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,122,0,0
+1701805495012,54,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-30,,true,,345,179,21,21,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,54,0,0
+1701805495066,2821,bikroy_post_ads-2,200,OK,Thread Group 1-30,text,true,,666297,179,21,21,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,760,0,0
+1701805493828,4177,bikroy_post_ads,200,OK,Thread Group 1-41,text,true,,671383,541,20,20,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,157,0,0
+1701805493828,157,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-41,text,true,,913,183,20,20,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,157,0,0
+1701805493985,332,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-41,,true,,345,179,20,20,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,332,0,0
+1701805494318,3687,bikroy_post_ads-2,200,OK,Thread Group 1-41,text,true,,670125,179,20,20,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,1226,0,0
+1701805492647,5649,bikroy_homepage,200,OK,Thread Group 1-51,text,true,,367289,340,20,20,https://bikroy.com/,2278,0,2155
+1701805492647,2278,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-51,text,true,,846,116,20,20,https://www.bikroy.com/,2278,0,2155
+1701805494926,101,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-51,,true,,278,112,20,20,http://bikroy.com/,101,0,48
+1701805495028,3268,bikroy_homepage-2,200,OK,Thread Group 1-51,text,true,,366165,112,20,20,https://bikroy.com/,551,0,155
+1701805494881,3488,bikroy_all_ads,200,OK,Thread Group 1-50,text,true,,661889,358,20,20,https://bikroy.com/en/ads,142,0,0
+1701805494881,142,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-50,text,true,,852,122,20,20,https://www.bikroy.com/en/ads,142,0,0
+1701805495023,49,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-50,,true,,284,118,20,20,http://bikroy.com/en/ads,49,0,0
+1701805495072,3297,bikroy_all_ads-2,200,OK,Thread Group 1-50,text,true,,660753,118,20,20,https://bikroy.com/en/ads,1266,0,0
+1701805493670,5051,bikroy_post_ads,200,OK,Thread Group 1-32,text,true,,671324,541,21,21,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,145,0,0
+1701805493670,146,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-32,text,true,,913,183,21,21,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,145,0,0
+1701805493816,52,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-32,,true,,345,179,21,21,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,52,0,0
+1701805493868,4853,bikroy_post_ads-2,200,OK,Thread Group 1-32,text,true,,670066,179,21,21,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,1037,0,0
+1701805493147,5622,bikroy_homepage,200,OK,Thread Group 1-52,text,true,,367235,340,20,20,https://bikroy.com/,1661,0,470
+1701805493147,1661,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-52,text,true,,846,116,20,20,https://www.bikroy.com/,1661,0,470
+1701805494808,103,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-52,,true,,278,112,20,20,http://bikroy.com/,103,0,50
+1701805494912,3857,bikroy_homepage-2,200,OK,Thread Group 1-52,text,true,,366111,112,20,20,https://bikroy.com/,708,0,149
+1701805495647,3138,bikroy_homepage,200,OK,Thread Group 1-57,text,true,,367260,340,20,20,https://bikroy.com/,759,0,540
+1701805495647,759,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-57,text,true,,846,116,20,20,https://www.bikroy.com/,759,0,540
+1701805496407,130,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-57,,true,,278,112,20,20,http://bikroy.com/,130,0,60
+1701805496537,2248,bikroy_homepage-2,200,OK,Thread Group 1-57,text,true,,366136,112,20,20,https://bikroy.com/,1679,0,1188
+1701805494844,4053,bikroy_post_ads,200,OK,Thread Group 1-38,text,true,,667553,541,20,20,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,197,0,0
+1701805494844,197,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-38,text,true,,913,183,20,20,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,197,0,0
+1701805495041,52,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-38,,true,,345,179,20,20,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,52,0,0
+1701805495094,3803,bikroy_post_ads-2,200,OK,Thread Group 1-38,text,true,,666295,179,20,20,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,943,0,0
+1701805497313,2280,bikroy_all_ads,200,OK,Thread Group 1-53,text,true,,668123,358,20,20,https://bikroy.com/en/ads,134,0,0
+1701805497313,134,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-53,text,true,,852,122,20,20,https://www.bikroy.com/en/ads,134,0,0
+1701805497447,66,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-53,,true,,284,118,20,20,http://bikroy.com/en/ads,66,0,0
+1701805497513,2080,bikroy_all_ads-2,200,OK,Thread Group 1-53,text,true,,666987,118,20,20,https://bikroy.com/en/ads,668,0,0
+1701805498297,2100,bikroy_all_ads,200,OK,Thread Group 1-51,text,true,,663868,358,22,22,https://bikroy.com/en/ads,130,0,0
+1701805498297,131,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-51,text,true,,852,122,22,22,https://www.bikroy.com/en/ads,130,0,0
+1701805498428,63,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-51,,true,,284,118,22,22,http://bikroy.com/en/ads,63,0,0
+1701805498491,1906,bikroy_all_ads-2,200,OK,Thread Group 1-51,text,true,,662732,118,22,22,https://bikroy.com/en/ads,817,0,0
+1701805496148,4432,bikroy_homepage,200,OK,Thread Group 1-58,text,true,,367204,340,22,22,https://bikroy.com/,1710,0,575
+1701805496148,1710,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-58,text,true,,846,116,22,22,https://www.bikroy.com/,1710,0,575
+1701805497859,93,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-58,,true,,278,112,22,22,http://bikroy.com/,93,0,43
+1701805497952,2628,bikroy_homepage-2,200,OK,Thread Group 1-58,text,true,,366080,112,22,22,https://bikroy.com/,745,0,154
+1701805498369,2298,bikroy_post_ads,200,OK,Thread Group 1-50,text,true,,672190,541,23,23,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,133,0,0
+1701805498369,133,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-50,text,true,,913,183,23,23,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,133,0,0
+1701805498502,64,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-50,,true,,345,179,23,23,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,64,0,0
+1701805498566,2101,bikroy_post_ads-2,200,OK,Thread Group 1-50,text,true,,670932,179,23,23,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,725,0,0
+1701805497647,3323,bikroy_homepage,200,OK,Thread Group 1-61,text,true,,367250,340,22,22,https://bikroy.com/,290,0,173
+1701805497647,290,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-61,text,true,,846,116,22,22,https://www.bikroy.com/,290,0,173
+1701805497938,98,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-61,,true,,278,112,22,22,http://bikroy.com/,98,0,48
+1701805498037,2933,bikroy_homepage-2,200,OK,Thread Group 1-61,text,true,,366126,112,22,22,https://bikroy.com/,549,0,136
+1701805497222,3837,bikroy_post_ads,200,OK,Thread Group 1-43,text,true,,671172,541,22,22,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,166,0,0
+1701805497222,166,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-43,text,true,,913,183,22,22,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,166,0,0
+1701805497388,64,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-43,,true,,345,179,22,22,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,64,0,0
+1701805497452,3607,bikroy_post_ads-2,200,OK,Thread Group 1-43,text,true,,669914,179,22,22,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,885,0,0
+1701805497161,3912,bikroy_all_ads,200,OK,Thread Group 1-55,text,true,,669306,358,21,21,https://bikroy.com/en/ads,1023,0,0
+1701805497161,1023,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-55,text,true,,852,122,21,21,https://www.bikroy.com/en/ads,1023,0,0
+1701805498184,48,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-55,,true,,284,118,21,21,http://bikroy.com/en/ads,48,0,0
+1701805498233,2840,bikroy_all_ads-2,200,OK,Thread Group 1-55,text,true,,668170,118,21,21,https://bikroy.com/en/ads,769,0,0
+1701805498785,2636,bikroy_all_ads,200,OK,Thread Group 1-57,text,true,,640425,358,22,22,https://bikroy.com/en/ads,1078,0,0
+1701805498785,1078,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-57,text,true,,852,122,22,22,https://www.bikroy.com/en/ads,1078,0,0
+1701805499863,69,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-57,,true,,284,118,22,22,http://bikroy.com/en/ads,69,0,0
+1701805499932,1489,bikroy_all_ads-2,200,OK,Thread Group 1-57,text,true,,639289,118,22,22,https://bikroy.com/en/ads,745,0,0
+1701805497809,3793,bikroy_all_ads,200,OK,Thread Group 1-54,text,true,,671938,358,22,22,https://bikroy.com/en/ads,134,0,0
+1701805497809,134,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-54,text,true,,852,122,22,22,https://www.bikroy.com/en/ads,134,0,0
+1701805497943,49,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-54,,true,,284,118,22,22,http://bikroy.com/en/ads,49,0,0
+1701805497992,3610,bikroy_all_ads-2,200,OK,Thread Group 1-54,text,true,,670802,118,22,22,https://bikroy.com/en/ads,911,0,0
+1701805491647,10002,bikroy_homepage,200,OK,Thread Group 1-49,text,true,,367262,340,23,23,https://bikroy.com/,2443,0,2243
+1701805491647,2443,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-49,text,true,,846,116,23,23,https://www.bikroy.com/,2443,0,2243
+1701805494090,107,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-49,,true,,278,112,23,23,http://bikroy.com/,107,0,56
+1701805494197,7452,bikroy_homepage-2,200,OK,Thread Group 1-49,text,true,,366138,112,23,23,https://bikroy.com/,1767,0,148
+1701805498146,3523,bikroy_homepage,200,OK,Thread Group 1-62,text,true,,367261,340,23,23,https://bikroy.com/,307,0,172
+1701805498146,307,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-62,text,true,,846,116,23,23,https://www.bikroy.com/,307,0,172
+1701805498453,124,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-62,,true,,278,112,23,23,http://bikroy.com/,124,0,57
+1701805498578,3091,bikroy_homepage-2,200,OK,Thread Group 1-62,text,true,,366137,112,23,23,https://bikroy.com/,1047,0,630
+1701805499594,2140,bikroy_post_ads,200,OK,Thread Group 1-53,text,true,,654425,541,23,23,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,149,0,0
+1701805499594,149,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-53,text,true,,913,183,23,23,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,149,0,0
+1701805499743,64,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-53,,true,,345,179,23,23,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,64,0,0
+1701805499807,1927,bikroy_post_ads-2,200,OK,Thread Group 1-53,text,true,,653167,179,23,23,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,628,0,0
+1701805495147,6593,bikroy_homepage,200,OK,Thread Group 1-56,text,true,,367272,340,22,22,https://bikroy.com/,385,0,191
+1701805495147,385,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-56,text,true,,846,116,22,22,https://www.bikroy.com/,385,0,191
+1701805495533,3131,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-56,,true,,278,112,22,22,http://bikroy.com/,3131,0,3065
+1701805498664,3076,bikroy_homepage-2,200,OK,Thread Group 1-56,text,true,,366148,112,22,22,https://bikroy.com/,1223,0,181
+1701805496440,5304,bikroy_post_ads,200,OK,Thread Group 1-42,text,true,,665681,541,22,22,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,1088,0,0
+1701805496440,1088,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-42,text,true,,913,183,22,22,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,1088,0,0
+1701805497528,66,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-42,,true,,345,179,22,22,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,66,0,0
+1701805497594,4150,bikroy_post_ads-2,200,OK,Thread Group 1-42,text,true,,664423,179,22,22,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,709,0,0
+1701805498769,3020,bikroy_all_ads,200,OK,Thread Group 1-52,text,true,,667190,358,21,21,https://bikroy.com/en/ads,200,0,0
+1701805498769,200,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-52,text,true,,852,122,21,21,https://www.bikroy.com/en/ads,200,0,0
+1701805498970,325,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-52,,true,,284,118,21,21,http://bikroy.com/en/ads,325,0,0
+1701805499296,2493,bikroy_all_ads-2,200,OK,Thread Group 1-52,text,true,,666054,118,21,21,https://bikroy.com/en/ads,1049,0,0
+1701805499147,2794,bikroy_homepage,200,OK,Thread Group 1-64,text,true,,367253,340,21,21,https://bikroy.com/,1465,0,476
+1701805499147,1466,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-64,text,true,,846,116,21,21,https://www.bikroy.com/,1465,0,476
+1701805500613,132,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-64,,true,,278,112,21,21,http://bikroy.com/,132,0,62
+1701805500745,1196,bikroy_homepage-2,200,OK,Thread Group 1-64,text,true,,366129,112,21,21,https://bikroy.com/,943,0,579
+1701805497147,4828,bikroy_homepage,200,OK,Thread Group 1-60,text,true,,367283,340,21,21,https://bikroy.com/,1314,0,1174
+1701805497147,1314,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-60,text,true,,846,116,21,21,https://www.bikroy.com/,1314,0,1174
+1701805498461,124,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-60,,true,,278,112,21,21,http://bikroy.com/,124,0,55
+1701805498585,3390,bikroy_homepage-2,200,OK,Thread Group 1-60,text,true,,366159,112,21,21,https://bikroy.com/,1583,0,1193
+1701805498647,3684,bikroy_homepage,200,OK,Thread Group 1-63,text,true,,367233,340,22,22,https://bikroy.com/,333,0,193
+1701805498647,333,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-63,text,true,,846,116,22,22,https://www.bikroy.com/,333,0,193
+1701805498981,396,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-63,,true,,278,112,22,22,http://bikroy.com/,396,0,63
+1701805499377,2954,bikroy_homepage-2,200,OK,Thread Group 1-63,text,true,,366109,112,22,22,https://bikroy.com/,2645,0,2161
+1701805497874,4715,bikroy_post_ads,200,OK,Thread Group 1-44,text,true,,669567,541,22,22,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,125,0,0
+1701805497874,125,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-44,text,true,,913,183,22,22,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,125,0,0
+1701805497999,49,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-44,,true,,345,179,22,22,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,49,0,0
+1701805498048,4541,bikroy_post_ads-2,200,OK,Thread Group 1-44,text,true,,668309,179,22,22,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,928,0,0
+1701805501421,1576,bikroy_post_ads,200,OK,Thread Group 1-57,text,true,,668667,541,22,22,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,148,0,0
+1701805501421,148,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-57,text,true,,913,183,22,22,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,148,0,0
+1701805501569,52,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-57,,true,,345,179,22,22,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,52,0,0
+1701805501622,1375,bikroy_post_ads-2,200,OK,Thread Group 1-57,text,true,,667409,179,22,22,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,655,0,0
+1701805500649,2483,bikroy_homepage,200,OK,Thread Group 1-67,text,true,,367290,340,21,21,https://bikroy.com/,317,0,186
+1701805500649,318,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-67,text,true,,846,116,21,21,https://www.bikroy.com/,317,0,186
+1701805500967,133,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-67,,true,,278,112,21,21,http://bikroy.com/,133,0,66
+1701805501101,2031,bikroy_homepage-2,200,OK,Thread Group 1-67,text,true,,366166,112,21,21,https://bikroy.com/,1226,0,442
+1701805501147,2532,bikroy_homepage,200,OK,Thread Group 1-68,text,true,,366588,340,23,23,https://bikroy.com/,385,0,194
+1701805501147,385,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-68,text,true,,846,116,23,23,https://www.bikroy.com/,385,0,194
+1701805501532,102,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-68,,true,,278,112,23,23,http://bikroy.com/,102,0,46
+1701805501635,2044,bikroy_homepage-2,200,OK,Thread Group 1-68,text,true,,365464,112,23,23,https://bikroy.com/,958,0,152
+1701805500149,4197,bikroy_homepage,200,OK,Thread Group 1-66,text,true,,367241,340,24,24,https://bikroy.com/,399,0,188
+1701805500149,399,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-66,text,true,,846,116,24,24,https://www.bikroy.com/,399,0,188
+1701805500548,1107,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-66,,true,,278,112,24,24,http://bikroy.com/,1107,0,1050
+1701805501655,2691,bikroy_homepage-2,200,OK,Thread Group 1-66,text,true,,366117,112,24,24,https://bikroy.com/,896,0,152
+1701805501789,2838,bikroy_post_ads,200,OK,Thread Group 1-52,text,true,,654425,541,24,24,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,214,0,0
+1701805501789,214,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-52,text,true,,913,183,24,24,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,214,0,0
+1701805502003,53,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-52,,true,,345,179,24,24,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,53,0,0
+1701805502056,2571,bikroy_post_ads-2,200,OK,Thread Group 1-52,text,true,,653167,179,24,24,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,893,0,0
+1701805501074,3679,bikroy_post_ads,200,OK,Thread Group 1-55,text,true,,671371,541,24,24,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,196,0,0
+1701805501074,196,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-55,text,true,,913,183,24,24,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,196,0,0
+1701805501271,62,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-55,,true,,345,179,24,24,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,62,0,0
+1701805501333,3420,bikroy_post_ads-2,200,OK,Thread Group 1-55,text,true,,670113,179,24,24,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,879,0,0
+1701805500580,4237,bikroy_all_ads,200,OK,Thread Group 1-58,text,true,,671100,358,23,23,https://bikroy.com/en/ads,144,0,0
+1701805500580,144,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-58,text,true,,852,122,23,23,https://www.bikroy.com/en/ads,144,0,0
+1701805500725,62,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-58,,true,,284,118,23,23,http://bikroy.com/en/ads,62,0,0
+1701805500787,4030,bikroy_all_ads-2,200,OK,Thread Group 1-58,text,true,,669964,118,23,23,https://bikroy.com/en/ads,925,0,0
+1701805499646,5355,bikroy_homepage,200,OK,Thread Group 1-65,text,true,,367227,340,23,23,https://bikroy.com/,2402,0,2170
+1701805499646,2402,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-65,text,true,,846,116,23,23,https://www.bikroy.com/,2402,0,2170
+1701805502048,91,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-65,,true,,278,112,23,23,http://bikroy.com/,91,0,43
+1701805502139,2862,bikroy_homepage-2,200,OK,Thread Group 1-65,text,true,,366103,112,23,23,https://bikroy.com/,905,0,144
+1701805500399,4618,bikroy_post_ads,200,OK,Thread Group 1-51,text,true,,671361,541,23,23,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,136,0,0
+1701805500399,136,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-51,text,true,,913,183,23,23,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,136,0,0
+1701805500535,328,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-51,,true,,345,179,23,23,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,328,0,0
+1701805500863,4154,bikroy_post_ads-2,200,OK,Thread Group 1-51,text,true,,670103,179,23,23,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,927,0,0
+1701805501976,3136,bikroy_all_ads,200,OK,Thread Group 1-60,text,true,,668126,358,22,22,https://bikroy.com/en/ads,158,0,0
+1701805501976,158,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-60,text,true,,852,122,22,22,https://www.bikroy.com/en/ads,158,0,0
+1701805502134,51,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-60,,true,,284,118,22,22,http://bikroy.com/en/ads,51,0,0
+1701805502185,2927,bikroy_all_ads-2,200,OK,Thread Group 1-60,text,true,,666990,118,22,22,https://bikroy.com/en/ads,1065,0,0
+1701805502147,2979,bikroy_homepage,200,OK,Thread Group 1-70,text,true,,367275,340,22,22,https://bikroy.com/,319,0,139
+1701805502147,319,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-70,text,true,,846,116,22,22,https://www.bikroy.com/,319,0,139
+1701805502467,118,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-70,,true,,278,112,22,22,http://bikroy.com/,118,0,51
+1701805502585,2541,bikroy_homepage-2,200,OK,Thread Group 1-70,text,true,,366151,112,22,22,https://bikroy.com/,1018,0,552
+1701805501741,3563,bikroy_all_ads,200,OK,Thread Group 1-56,text,true,,668120,358,23,23,https://bikroy.com/en/ads,287,0,0
+1701805501741,288,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-56,text,true,,852,122,23,23,https://www.bikroy.com/en/ads,287,0,0
+1701805502029,54,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-56,,true,,284,118,23,23,http://bikroy.com/en/ads,54,0,0
+1701805502083,3221,bikroy_all_ads-2,200,OK,Thread Group 1-56,text,true,,666984,118,23,23,https://bikroy.com/en/ads,1326,0,0
+1701805501942,3411,bikroy_all_ads,200,OK,Thread Group 1-64,text,true,,648737,358,23,23,https://bikroy.com/en/ads,184,0,0
+1701805501942,184,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-64,text,true,,852,122,23,23,https://www.bikroy.com/en/ads,184,0,0
+1701805502126,51,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-64,,true,,284,118,23,23,http://bikroy.com/en/ads,51,0,0
+1701805502177,3176,bikroy_all_ads-2,200,OK,Thread Group 1-64,text,true,,647601,118,23,23,https://bikroy.com/en/ads,936,0,0
+1701805501647,4019,bikroy_homepage,200,OK,Thread Group 1-69,text,true,,366609,340,24,24,https://bikroy.com/,356,0,145
+1701805501647,356,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-69,text,true,,846,116,24,24,https://www.bikroy.com/,356,0,145
+1701805502004,90,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-69,,true,,278,112,24,24,http://bikroy.com/,90,0,44
+1701805502095,3571,bikroy_homepage-2,200,OK,Thread Group 1-69,text,true,,365485,112,24,24,https://bikroy.com/,1308,0,146
+1701805504146,2291,bikroy_homepage,200,OK,Thread Group 1-74,text,true,,367219,340,25,25,https://bikroy.com/,490,0,364
+1701805504146,490,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-74,text,true,,846,116,25,25,https://www.bikroy.com/,490,0,364
+1701805504637,135,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-74,,true,,278,112,25,25,http://bikroy.com/,135,0,62
+1701805504773,1664,bikroy_homepage-2,200,OK,Thread Group 1-74,text,true,,366095,112,25,25,https://bikroy.com/,614,0,185
+1701805501602,4936,bikroy_post_ads,200,OK,Thread Group 1-54,text,true,,668356,541,25,25,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,289,0,0
+1701805501602,289,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-54,text,true,,913,183,25,25,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,289,0,0
+1701805501891,47,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-54,,true,,345,179,25,25,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,47,0,0
+1701805501939,4599,bikroy_post_ads-2,200,OK,Thread Group 1-54,text,true,,667098,179,25,25,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,1181,0,0
+1701805502331,4272,bikroy_all_ads,200,OK,Thread Group 1-63,text,true,,673577,358,24,24,https://bikroy.com/en/ads,122,0,0
+1701805502331,122,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-63,text,true,,852,122,24,24,https://www.bikroy.com/en/ads,122,0,0
+1701805502453,59,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-63,,true,,284,118,24,24,http://bikroy.com/en/ads,59,0,0
+1701805502512,4091,bikroy_all_ads-2,200,OK,Thread Group 1-63,text,true,,672441,118,24,24,https://bikroy.com/en/ads,690,0,0
+1701805503645,2986,bikroy_homepage,200,OK,Thread Group 1-73,text,true,,367327,340,24,24,https://bikroy.com/,418,0,278
+1701805503645,1066,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-73,text,true,,846,116,24,24,https://www.bikroy.com/,418,0,278
+1701805504712,136,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-73,,true,,278,112,24,24,http://bikroy.com/,136,0,63
+1701805504848,1783,bikroy_homepage-2,200,OK,Thread Group 1-73,text,true,,366203,112,24,24,https://bikroy.com/,507,0,171
+1701805503679,2956,bikroy_all_ads,200,OK,Thread Group 1-68,text,true,,667936,358,24,24,https://bikroy.com/en/ads,134,0,0
+1701805503679,509,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-68,text,true,,852,122,24,24,https://www.bikroy.com/en/ads,134,0,0
+1701805504188,325,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-68,,true,,284,118,24,24,http://bikroy.com/en/ads,325,0,0
+1701805504513,2122,bikroy_all_ads-2,200,OK,Thread Group 1-68,text,true,,666800,118,24,24,https://bikroy.com/en/ads,772,0,0
+1701805500970,6189,bikroy_all_ads,200,OK,Thread Group 1-61,text,true,,668110,358,26,26,https://bikroy.com/en/ads,462,0,0
+1701805500970,462,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-61,text,true,,852,122,26,26,https://www.bikroy.com/en/ads,462,0,0
+1701805501433,48,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-61,,true,,284,118,26,26,http://bikroy.com/en/ads,48,0,0
+1701805501481,5678,bikroy_all_ads-2,200,OK,Thread Group 1-61,text,true,,666974,118,26,26,https://bikroy.com/en/ads,1846,0,0
+1701805501669,6130,bikroy_all_ads,200,OK,Thread Group 1-62,text,true,,668102,358,26,26,https://bikroy.com/en/ads,234,0,0
+1701805501669,234,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-62,text,true,,852,122,26,26,https://www.bikroy.com/en/ads,234,0,0
+1701805501903,53,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-62,,true,,284,118,26,26,http://bikroy.com/en/ads,53,0,0
+1701805501956,5843,bikroy_all_ads-2,200,OK,Thread Group 1-62,text,true,,666966,118,26,26,https://bikroy.com/en/ads,1276,0,0
+1701805505127,2752,bikroy_all_ads,200,OK,Thread Group 1-70,text,true,,668157,358,26,26,https://bikroy.com/en/ads,137,0,0
+1701805505127,137,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-70,text,true,,852,122,26,26,https://www.bikroy.com/en/ads,137,0,0
+1701805505264,62,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-70,,true,,284,118,26,26,http://bikroy.com/en/ads,62,0,0
+1701805505326,2553,bikroy_all_ads-2,200,OK,Thread Group 1-70,text,true,,667021,118,26,26,https://bikroy.com/en/ads,1089,0,0
+1701805505667,2456,bikroy_all_ads,200,OK,Thread Group 1-69,text,true,,668132,358,26,26,https://bikroy.com/en/ads,135,0,0
+1701805505667,135,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-69,text,true,,852,122,26,26,https://www.bikroy.com/en/ads,135,0,0
+1701805505802,65,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-69,,true,,284,118,26,26,http://bikroy.com/en/ads,65,0,0
+1701805505867,2256,bikroy_all_ads-2,200,OK,Thread Group 1-69,text,true,,666996,118,26,26,https://bikroy.com/en/ads,1213,0,0
+1701805503148,5099,bikroy_homepage,200,OK,Thread Group 1-72,text,true,,367218,340,26,26,https://bikroy.com/,566,0,272
+1701805503148,566,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-72,text,true,,846,116,26,26,https://www.bikroy.com/,566,0,272
+1701805503715,1127,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-72,,true,,278,112,26,26,http://bikroy.com/,1127,0,1060
+1701805504842,3405,bikroy_homepage-2,200,OK,Thread Group 1-72,text,true,,366094,112,26,26,https://bikroy.com/,764,0,175
+1701805503133,5266,bikroy_all_ads,200,OK,Thread Group 1-67,text,true,,672516,358,26,26,https://bikroy.com/en/ads,539,0,0
+1701805503133,539,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-67,text,true,,852,122,26,26,https://www.bikroy.com/en/ads,539,0,0
+1701805503672,66,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-67,,true,,284,118,26,26,http://bikroy.com/en/ads,66,0,0
+1701805503739,4660,bikroy_all_ads-2,200,OK,Thread Group 1-67,text,true,,671380,118,26,26,https://bikroy.com/en/ads,808,0,0
+1701805505353,3197,bikroy_post_ads,200,OK,Thread Group 1-64,text,true,,669635,541,26,26,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,139,0,0
+1701805505353,139,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-64,text,true,,913,183,26,26,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,139,0,0
+1701805505492,66,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-64,,true,,345,179,26,26,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,66,0,0
+1701805505558,2992,bikroy_post_ads-2,200,OK,Thread Group 1-64,text,true,,668377,179,26,26,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,978,0,0
+1701805506437,2384,bikroy_all_ads,200,OK,Thread Group 1-74,text,true,,667786,358,25,25,https://bikroy.com/en/ads,131,0,0
+1701805506437,131,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-74,text,true,,852,122,25,25,https://www.bikroy.com/en/ads,131,0,0
+1701805506568,71,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-74,,true,,284,118,25,25,http://bikroy.com/en/ads,71,0,0
+1701805506639,2182,bikroy_all_ads-2,200,OK,Thread Group 1-74,text,true,,666650,118,25,25,https://bikroy.com/en/ads,835,0,0
+1701805501649,7193,bikroy_all_ads,200,OK,Thread Group 1-49,text,true,,668086,358,25,25,https://bikroy.com/en/ads,252,0,0
+1701805501649,252,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-49,text,true,,852,122,25,25,https://www.bikroy.com/en/ads,252,0,0
+1701805501901,58,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-49,,true,,284,118,25,25,http://bikroy.com/en/ads,58,0,0
+1701805501960,6882,bikroy_all_ads-2,200,OK,Thread Group 1-49,text,true,,666950,118,25,25,https://bikroy.com/en/ads,1196,0,0
+1701805505113,3843,bikroy_post_ads,200,OK,Thread Group 1-60,text,true,,654449,541,25,25,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,152,0,0
+1701805505113,152,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-60,text,true,,913,183,25,25,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,152,0,0
+1701805505265,65,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-60,,true,,345,179,25,25,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,65,0,0
+1701805505330,3626,bikroy_post_ads-2,200,OK,Thread Group 1-60,text,true,,653191,179,25,25,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,1173,0,0
+1701805505305,3847,bikroy_post_ads,200,OK,Thread Group 1-56,text,true,,668375,541,24,24,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,130,0,0
+1701805505305,130,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-56,text,true,,913,183,24,24,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,130,0,0
+1701805505435,695,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-56,,true,,345,179,24,24,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,695,0,0
+1701805506131,3021,bikroy_post_ads-2,200,OK,Thread Group 1-56,text,true,,667117,179,24,24,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,695,0,0
+1701805506632,2580,bikroy_all_ads,200,OK,Thread Group 1-73,text,true,,665770,358,23,23,https://bikroy.com/en/ads,919,0,0
+1701805506632,919,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-73,text,true,,852,122,23,23,https://www.bikroy.com/en/ads,919,0,0
+1701805507551,70,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-73,,true,,284,118,23,23,http://bikroy.com/en/ads,70,0,0
+1701805507621,1591,bikroy_all_ads-2,200,OK,Thread Group 1-73,text,true,,664634,118,23,23,https://bikroy.com/en/ads,711,0,0
+1701805506636,2670,bikroy_post_ads,200,OK,Thread Group 1-68,text,true,,671484,541,23,23,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,193,0,0
+1701805506636,193,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-68,text,true,,913,183,23,23,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,193,0,0
+1701805506829,328,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-68,,true,,345,179,23,23,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,328,0,0
+1701805507157,2149,bikroy_post_ads-2,200,OK,Thread Group 1-68,text,true,,670226,179,23,23,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,974,0,0
+1701805504347,4965,bikroy_all_ads,200,OK,Thread Group 1-66,text,true,,674853,358,22,22,https://bikroy.com/en/ads,193,0,0
+1701805504347,193,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-66,text,true,,852,122,22,22,https://www.bikroy.com/en/ads,193,0,0
+1701805504541,357,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-66,,true,,284,118,22,22,http://bikroy.com/en/ads,357,0,0
+1701805504898,4414,bikroy_all_ads-2,200,OK,Thread Group 1-66,text,true,,673717,118,22,22,https://bikroy.com/en/ads,850,0,0
+1701805505002,4651,bikroy_all_ads,200,OK,Thread Group 1-65,text,true,,668179,358,22,22,https://bikroy.com/en/ads,135,0,0
+1701805505002,135,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-65,text,true,,852,122,22,22,https://www.bikroy.com/en/ads,135,0,0
+1701805505137,59,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-65,,true,,284,118,22,22,http://bikroy.com/en/ads,59,0,0
+1701805505196,4457,bikroy_all_ads-2,200,OK,Thread Group 1-65,text,true,,667043,118,22,22,https://bikroy.com/en/ads,875,0,0
+1701805502647,7210,bikroy_homepage,200,OK,Thread Group 1-71,text,true,,367284,340,22,22,https://bikroy.com/,485,0,199
+1701805502647,485,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-71,text,true,,846,116,22,22,https://www.bikroy.com/,485,0,199
+1701805503132,2158,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-71,,true,,278,112,22,22,http://bikroy.com/,2158,0,1063
+1701805505290,4567,bikroy_homepage-2,200,OK,Thread Group 1-71,text,true,,366160,112,22,22,https://bikroy.com/,722,0,173
+1701805505146,4743,bikroy_homepage,200,OK,Thread Group 1-76,text,true,,367242,340,22,22,https://bikroy.com/,386,0,182
+1701805505146,386,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-76,text,true,,846,116,22,22,https://www.bikroy.com/,386,0,182
+1701805505532,134,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-76,,true,,278,112,22,22,http://bikroy.com/,134,0,64
+1701805505667,4222,bikroy_homepage-2,200,OK,Thread Group 1-76,text,true,,366118,112,22,22,https://bikroy.com/,639,0,200
+1701805505646,4292,bikroy_homepage,200,OK,Thread Group 1-77,text,true,,367244,340,22,22,https://bikroy.com/,2046,0,1561
+1701805505646,2046,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-77,text,true,,846,116,22,22,https://www.bikroy.com/,2046,0,1561
+1701805507692,130,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-77,,true,,278,112,22,22,http://bikroy.com/,130,0,62
+1701805507822,2116,bikroy_homepage-2,200,OK,Thread Group 1-77,text,true,,366120,112,22,22,https://bikroy.com/,1317,0,268
+1701805504818,5322,bikroy_post_ads,200,OK,Thread Group 1-58,text,true,,654425,541,22,22,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,140,0,0
+1701805504818,140,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-58,text,true,,913,183,22,22,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,140,0,0
+1701805504958,61,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-58,,true,,345,179,22,22,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,61,0,0
+1701805505019,5121,bikroy_post_ads-2,200,OK,Thread Group 1-58,text,true,,653167,179,22,22,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,698,0,0
+1701805509212,2026,bikroy_post_ads,200,OK,Thread Group 1-73,text,true,,663097,541,21,21,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,192,0,0
+1701805509212,192,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-73,text,true,,913,183,21,21,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,192,0,0
+1701805509404,68,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-73,,true,,345,179,21,21,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,68,0,0
+1701805509472,1766,bikroy_post_ads-2,200,OK,Thread Group 1-73,text,true,,661839,179,21,21,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,869,0,0
+1701805508123,3173,bikroy_post_ads,200,OK,Thread Group 1-69,text,true,,668535,541,20,20,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,244,0,0
+1701805508123,244,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-69,text,true,,913,183,20,20,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,244,0,0
+1701805508367,322,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-69,,true,,345,179,20,20,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,322,0,0
+1701805508690,2606,bikroy_post_ads-2,200,OK,Thread Group 1-69,text,true,,667277,179,20,20,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,1118,0,0
+1701805507879,3446,bikroy_post_ads,200,OK,Thread Group 1-70,text,true,,672493,541,19,19,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,220,0,0
+1701805507879,220,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-70,text,true,,913,183,19,19,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,220,0,0
+1701805508099,65,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-70,,true,,345,179,19,19,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,65,0,0
+1701805508164,3161,bikroy_post_ads-2,200,OK,Thread Group 1-70,text,true,,671235,179,19,19,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,1105,0,0
+1701805490146,21391,bikroy_homepage,200,OK,Thread Group 1-46,text,true,,367220,340,18,18,https://bikroy.com/,11733,0,11516
+1701805490146,11733,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-46,text,true,,846,116,18,18,https://www.bikroy.com/,11733,0,11516
+1701805501879,101,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-46,,true,,278,112,18,18,http://bikroy.com/,101,0,47
+1701805501981,9556,bikroy_homepage-2,200,OK,Thread Group 1-46,text,true,,366096,112,18,18,https://bikroy.com/,1342,0,147
+1701805508822,2730,bikroy_post_ads,200,OK,Thread Group 1-74,text,true,,671592,541,18,18,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,116,0,0
+1701805508822,116,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-74,text,true,,913,183,18,18,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,116,0,0
+1701805508938,54,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-74,,true,,345,179,18,18,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,54,0,0
+1701805508992,2560,bikroy_post_ads-2,200,OK,Thread Group 1-74,text,true,,670334,179,18,18,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,977,0,0
+1701805506603,5057,bikroy_post_ads,200,OK,Thread Group 1-63,text,true,,671492,541,17,17,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,144,0,0
+1701805506603,144,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-63,text,true,,913,183,17,17,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,144,0,0
+1701805506747,73,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-63,,true,,345,179,17,17,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,73,0,0
+1701805506820,4840,bikroy_post_ads-2,200,OK,Thread Group 1-63,text,true,,670234,179,17,17,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,2010,0,0
+1701805509938,2245,bikroy_all_ads,200,OK,Thread Group 1-77,text,true,,662312,358,16,16,https://bikroy.com/en/ads,147,0,0
+1701805509938,147,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-77,text,true,,852,122,16,16,https://www.bikroy.com/en/ads,147,0,0
+1701805510085,71,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-77,,true,,284,118,16,16,http://bikroy.com/en/ads,71,0,0
+1701805510156,2027,bikroy_all_ads-2,200,OK,Thread Group 1-77,text,true,,661176,118,16,16,https://bikroy.com/en/ads,902,0,0
+1701805507148,5110,bikroy_homepage,200,OK,Thread Group 1-80,text,true,,367306,340,16,16,https://bikroy.com/,923,0,455
+1701805507148,923,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-80,text,true,,846,116,16,16,https://www.bikroy.com/,923,0,455
+1701805508071,133,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-80,,true,,278,112,16,16,http://bikroy.com/,133,0,63
+1701805508204,4054,bikroy_homepage-2,200,OK,Thread Group 1-80,text,true,,366182,112,16,16,https://bikroy.com/,1607,0,1173
+1701805509889,2396,bikroy_all_ads,200,OK,Thread Group 1-76,text,true,,671528,358,16,16,https://bikroy.com/en/ads,137,0,0
+1701805509889,137,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-76,text,true,,852,122,16,16,https://www.bikroy.com/en/ads,137,0,0
+1701805510026,69,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-76,,true,,284,118,16,16,http://bikroy.com/en/ads,69,0,0
+1701805510095,2190,bikroy_all_ads-2,200,OK,Thread Group 1-76,text,true,,670392,118,16,16,https://bikroy.com/en/ads,910,0,0
+1701805509654,2873,bikroy_post_ads,200,OK,Thread Group 1-65,text,true,,671774,541,16,16,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,141,0,0
+1701805509654,141,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-65,text,true,,913,183,16,16,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,141,0,0
+1701805509795,69,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-65,,true,,345,179,16,16,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,69,0,0
+1701805509864,2663,bikroy_post_ads-2,200,OK,Thread Group 1-65,text,true,,670516,179,16,16,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,1085,0,0
+1701805509312,3377,bikroy_post_ads,200,OK,Thread Group 1-66,text,true,,671590,541,15,15,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,133,0,0
+1701805509312,133,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-66,text,true,,913,183,15,15,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,133,0,0
+1701805509445,66,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-66,,true,,345,179,15,15,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,66,0,0
+1701805509512,3177,bikroy_post_ads-2,200,OK,Thread Group 1-66,text,true,,670332,179,15,15,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,834,0,0
+1701805506147,6561,bikroy_homepage,200,OK,Thread Group 1-78,text,true,,367237,340,14,14,https://bikroy.com/,324,0,189
+1701805506147,324,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-78,text,true,,846,116,14,14,https://www.bikroy.com/,324,0,189
+1701805506471,132,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-78,,true,,278,112,14,14,http://bikroy.com/,132,0,63
+1701805506603,6105,bikroy_homepage-2,200,OK,Thread Group 1-78,text,true,,366113,112,14,14,https://bikroy.com/,982,0,588
+1701805508399,4676,bikroy_post_ads,200,OK,Thread Group 1-67,text,true,,654435,541,14,14,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,209,0,0
+1701805508399,209,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-67,text,true,,913,183,14,14,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,209,0,0
+1701805508608,65,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-67,,true,,345,179,14,14,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,65,0,0
+1701805508673,4402,bikroy_post_ads-2,200,OK,Thread Group 1-67,text,true,,653177,179,14,14,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,1011,0,0
+1701805512258,1151,bikroy_all_ads,200,OK,Thread Group 1-80,text,true,,667042,358,13,13,https://bikroy.com/en/ads,125,0,0
+1701805512258,125,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-80,text,true,,852,122,13,13,https://www.bikroy.com/en/ads,125,0,0
+1701805512383,52,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-80,,true,,284,118,13,13,http://bikroy.com/en/ads,52,0,0
+1701805512435,974,bikroy_all_ads-2,200,OK,Thread Group 1-80,text,true,,665906,118,13,13,https://bikroy.com/en/ads,510,0,0
+1701805504647,8775,bikroy_homepage,200,OK,Thread Group 1-75,text,true,,367220,340,13,13,https://bikroy.com/,342,0,174
+1701805504647,342,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-75,text,true,,846,116,13,13,https://www.bikroy.com/,342,0,174
+1701805504990,380,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-75,,true,,278,112,13,13,http://bikroy.com/,380,0,58
+1701805505370,8052,bikroy_homepage-2,200,OK,Thread Group 1-75,text,true,,366096,112,13,13,https://bikroy.com/,805,0,183
+1701805512285,1371,bikroy_post_ads,200,OK,Thread Group 1-76,text,true,,661803,541,13,13,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,124,0,0
+1701805512285,124,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-76,text,true,,913,183,13,13,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,124,0,0
+1701805512409,57,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-76,,true,,345,179,13,13,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,57,0,0
+1701805512466,1190,bikroy_post_ads-2,200,OK,Thread Group 1-76,text,true,,660545,179,13,13,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,598,0,0
+1701805508247,5514,bikroy_all_ads,200,OK,Thread Group 1-72,text,true,,670914,358,12,12,https://bikroy.com/en/ads,232,0,0
+1701805508247,233,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-72,text,true,,852,122,12,12,https://www.bikroy.com/en/ads,232,0,0
+1701805508480,66,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-72,,true,,284,118,12,12,http://bikroy.com/en/ads,66,0,0
+1701805508546,5215,bikroy_all_ads-2,200,OK,Thread Group 1-72,text,true,,669778,118,12,12,https://bikroy.com/en/ads,1020,0,0
+1701805508843,4947,bikroy_post_ads,200,OK,Thread Group 1-49,text,true,,668550,541,12,12,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,124,0,0
+1701805508843,124,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-49,text,true,,913,183,12,12,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,124,0,0
+1701805508967,56,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-49,,true,,345,179,12,12,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,56,0,0
+1701805509023,4767,bikroy_post_ads-2,200,OK,Thread Group 1-49,text,true,,667292,179,12,12,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,1012,0,0
+1701805511538,2371,bikroy_all_ads,200,OK,Thread Group 1-46,text,true,,654150,358,11,11,https://bikroy.com/en/ads,131,0,0
+1701805511538,131,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-46,text,true,,852,122,11,11,https://www.bikroy.com/en/ads,131,0,0
+1701805511669,53,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-46,,true,,284,118,11,11,http://bikroy.com/en/ads,53,0,0
+1701805511722,2187,bikroy_all_ads-2,200,OK,Thread Group 1-46,text,true,,653014,118,11,11,https://bikroy.com/en/ads,646,0,0
+1701805507160,6889,bikroy_post_ads,200,OK,Thread Group 1-61,text,true,,672547,541,11,11,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,137,0,0
+1701805507160,500,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-61,text,true,,913,183,11,11,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,137,0,0
+1701805507660,323,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-61,,true,,345,179,11,11,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,323,0,0
+1701805507983,6066,bikroy_post_ads-2,200,OK,Thread Group 1-61,text,true,,671289,179,11,11,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,1359,0,0
+1701805507799,6342,bikroy_post_ads,200,OK,Thread Group 1-62,text,true,,671159,541,10,10,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,437,0,0
+1701805507799,437,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-62,text,true,,913,183,10,10,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,437,0,0
+1701805508236,64,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-62,,true,,345,179,10,10,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,64,0,0
+1701805508300,5841,bikroy_post_ads-2,200,OK,Thread Group 1-62,text,true,,669901,179,10,10,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,1390,0,0
+1701805512183,2040,bikroy_post_ads,200,OK,Thread Group 1-77,text,true,,662971,541,9,9,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,129,0,0
+1701805512183,129,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-77,text,true,,913,183,9,9,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,129,0,0
+1701805512312,52,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-77,,true,,345,179,9,9,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,52,0,0
+1701805512364,1859,bikroy_post_ads-2,200,OK,Thread Group 1-77,text,true,,661713,179,9,9,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,654,0,0
+1701805513409,1158,bikroy_post_ads,200,OK,Thread Group 1-80,text,true,,662279,541,8,8,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,135,0,0
+1701805513409,135,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-80,text,true,,913,183,8,8,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,135,0,0
+1701805513544,53,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-80,,true,,345,179,8,8,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,53,0,0
+1701805513597,970,bikroy_post_ads-2,200,OK,Thread Group 1-80,text,true,,661021,179,8,8,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,635,0,0
+1701805509858,5049,bikroy_all_ads,200,OK,Thread Group 1-71,text,true,,671532,358,7,7,https://bikroy.com/en/ads,587,0,0
+1701805509858,587,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-71,text,true,,852,122,7,7,https://www.bikroy.com/en/ads,587,0,0
+1701805510445,3085,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-71,,true,,284,118,7,7,http://bikroy.com/en/ads,3085,0,0
+1701805513530,1377,bikroy_all_ads-2,200,OK,Thread Group 1-71,text,true,,670396,118,7,7,https://bikroy.com/en/ads,660,0,0
+1701805513761,1792,bikroy_post_ads,200,OK,Thread Group 1-72,text,true,,673223,541,7,7,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,131,0,0
+1701805513761,133,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-72,text,true,,913,183,7,7,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,131,0,0
+1701805513894,56,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-72,,true,,345,179,7,7,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,56,0,0
+1701805513950,1603,bikroy_post_ads-2,200,OK,Thread Group 1-72,text,true,,671965,179,7,7,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,856,0,0
+1701805513422,2257,bikroy_all_ads,200,OK,Thread Group 1-75,text,true,,667374,358,6,6,https://bikroy.com/en/ads,132,0,0
+1701805513422,132,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-75,text,true,,852,122,6,6,https://www.bikroy.com/en/ads,132,0,0
+1701805513554,53,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-75,,true,,284,118,6,6,http://bikroy.com/en/ads,53,0,0
+1701805513607,2072,bikroy_all_ads-2,200,OK,Thread Group 1-75,text,true,,666238,118,6,6,https://bikroy.com/en/ads,805,0,0
+1701805512709,3233,bikroy_all_ads,200,OK,Thread Group 1-78,text,true,,667384,358,6,6,https://bikroy.com/en/ads,117,0,0
+1701805512709,117,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-78,text,true,,852,122,6,6,https://www.bikroy.com/en/ads,117,0,0
+1701805512826,51,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-78,,true,,284,118,6,6,http://bikroy.com/en/ads,51,0,0
+1701805512877,3065,bikroy_all_ads-2,200,OK,Thread Group 1-78,text,true,,666248,118,6,6,https://bikroy.com/en/ads,768,0,0
+1701805513910,2228,bikroy_post_ads,200,OK,Thread Group 1-46,text,true,,667590,541,6,6,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,123,0,0
+1701805513910,124,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-46,text,true,,913,183,6,6,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,123,0,0
+1701805514034,52,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-46,,true,,345,179,6,6,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,52,0,0
+1701805514086,2052,bikroy_post_ads-2,200,OK,Thread Group 1-46,text,true,,666332,179,6,6,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,1646,0,0
+1701805514908,1493,bikroy_post_ads,200,OK,Thread Group 1-71,text,true,,667590,541,5,5,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,415,0,0
+1701805514908,415,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-71,text,true,,913,183,5,5,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,415,0,0
+1701805515323,51,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-71,,true,,345,179,5,5,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,51,0,0
+1701805515374,1027,bikroy_post_ads-2,200,OK,Thread Group 1-71,text,true,,666332,179,5,5,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,666,0,0
+1701805496646,19834,bikroy_homepage,200,OK,Thread Group 1-59,text,true,,367264,340,4,4,https://bikroy.com/,1315,0,1186
+1701805496646,1315,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-59,text,true,,846,116,4,4,https://www.bikroy.com/,1315,0,1186
+1701805497961,106,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-59,,true,,278,112,4,4,http://bikroy.com/,106,0,50
+1701805498067,18413,bikroy_homepage-2,200,OK,Thread Group 1-59,text,true,,366140,112,4,4,https://bikroy.com/,487,0,146
+1701805515942,1076,bikroy_post_ads,200,OK,Thread Group 1-78,text,true,,662888,541,4,4,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,119,0,0
+1701805515942,119,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-78,text,true,,913,183,4,4,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,119,0,0
+1701805516061,49,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-78,,true,,345,179,4,4,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,49,0,0
+1701805516110,908,bikroy_post_ads-2,200,OK,Thread Group 1-78,text,true,,661630,179,4,4,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,570,0,0
+1701805515680,1418,bikroy_post_ads,200,OK,Thread Group 1-75,text,true,,668287,541,3,3,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,129,0,0
+1701805515680,129,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-75,text,true,,913,183,3,3,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,129,0,0
+1701805515809,49,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-75,,true,,345,179,3,3,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,49,0,0
+1701805515858,1240,bikroy_post_ads-2,200,OK,Thread Group 1-75,text,true,,667029,179,3,3,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,779,0,0
+1701805516481,1175,bikroy_all_ads,200,OK,Thread Group 1-59,text,true,,667333,358,2,2,https://bikroy.com/en/ads,132,0,0
+1701805516481,132,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-59,text,true,,852,122,2,2,https://www.bikroy.com/en/ads,132,0,0
+1701805516613,55,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-59,,true,,284,118,2,2,http://bikroy.com/en/ads,55,0,0
+1701805516668,988,bikroy_all_ads-2,200,OK,Thread Group 1-59,text,true,,666197,118,2,2,https://bikroy.com/en/ads,553,0,0
+1701805517656,1039,bikroy_post_ads,200,OK,Thread Group 1-59,text,true,,672212,541,2,2,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,127,0,0
+1701805517656,127,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-59,text,true,,913,183,2,2,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,127,0,0
+1701805517783,62,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-59,,true,,345,179,2,2,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,62,0,0
+1701805517845,850,bikroy_post_ads-2,200,OK,Thread Group 1-59,text,true,,670954,179,2,2,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,542,0,0
+1701805506647,12959,bikroy_homepage,200,OK,Thread Group 1-79,text,true,,367250,340,1,1,https://bikroy.com/,1694,0,1478
+1701805506647,1694,bikroy_homepage-0,301,Moved Permanently,Thread Group 1-79,text,true,,846,116,1,1,https://www.bikroy.com/,1694,0,1478
+1701805508341,1131,bikroy_homepage-1,301,Moved Permanently,Thread Group 1-79,,true,,278,112,1,1,http://bikroy.com/,1131,0,1056
+1701805509472,10134,bikroy_homepage-2,200,OK,Thread Group 1-79,text,true,,366126,112,1,1,https://bikroy.com/,695,0,261
+1701805519606,2448,bikroy_all_ads,200,OK,Thread Group 1-79,text,true,,667308,358,1,1,https://bikroy.com/en/ads,132,0,0
+1701805519606,132,bikroy_all_ads-0,301,Moved Permanently,Thread Group 1-79,text,true,,852,122,1,1,https://www.bikroy.com/en/ads,132,0,0
+1701805519738,58,bikroy_all_ads-1,301,Moved Permanently,Thread Group 1-79,,true,,284,118,1,1,http://bikroy.com/en/ads,58,0,0
+1701805519796,2258,bikroy_all_ads-2,200,OK,Thread Group 1-79,text,true,,666172,118,1,1,https://bikroy.com/en/ads,863,0,0
+1701805522054,1174,bikroy_post_ads,200,OK,Thread Group 1-79,text,true,,667984,541,1,1,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,201,0,0
+1701805522054,201,bikroy_post_ads-0,301,Moved Permanently,Thread Group 1-79,text,true,,913,183,1,1,https://www.bikroy.com/en/ads?login-modal=true&action=post-ad&redirect-url=%2Fen%2Fpost-ad,201,0,0
+1701805522255,56,bikroy_post_ads-1,301,Moved Permanently,Thread Group 1-79,,true,,345,179,1,1,http://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,56,0,0
+1701805522311,917,bikroy_post_ads-2,200,OK,Thread Group 1-79,text,true,,666726,179,1,1,https://bikroy.com/en/ads?action=post-ad&login-modal=true&redirect-url=%2Fen%2Fpost-ad,573,0,0
